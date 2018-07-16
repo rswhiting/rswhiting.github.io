@@ -1,10 +1,12 @@
 ---
-title: 'Dad's Study'
+title: "Dad's Study"
 layout: post
 category: Story
 tags: [ Memory ]
 ---
 Jack couldn’t sleep that night. Like many nights before, he felt restless as he lay on the bottom bunk. With his feet resting on the cross-beams, he considered waking his older brother so he wouldn’t be alone in his boredom.
+
+<!-- more -->
 
 Instead Jack lowered his feet and jumped off the bed. Mom wouldn’t approve of late night wanderings unless it was to the bathroom or kitchen for a drink of water, so he wandered down the hallway toward the kitchen. The house was dark, and much more ominous when imagination could easily fill the dark corners.
 
