@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Bam! First post!
+category: stream
+tags: [github, blog, rambling]
 ---
 
 I've got a long way to go to migrate [my blog](https://rswhiting.com) from my own Wordpress instance to Github.io, but I think it'll be worth it. I'm already really excited about returning to Markdown without the frustration of keeping a server playing nice on the side.
