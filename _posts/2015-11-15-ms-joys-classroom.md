@@ -1,5 +1,5 @@
 ---
-title: 'Ms Joy's Classroom'
+title: "Ms Joy's Classroom"
 layout: post
 category: Story
 tags: [ Memory ]
