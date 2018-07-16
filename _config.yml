@@ -3,7 +3,7 @@ title: Robert Whiting
 tagline: 'In search of awesome'
 description: 'A Jekyll theme adapted from <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl: ""
-url: http://rswhiting.github.io
+url: https://rswhiting.github.io
 logo: '/public/logo.png'
 
 # Site configurations
