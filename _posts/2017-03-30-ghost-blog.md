@@ -1,11 +1,12 @@
 ---
 title: Ghost blog
 layout: post
-categories:
-  - Rambling
-  - Software
+category: Blog
+tags: [Ghost Blog, Json]
 ---
 I've put off applying updates to my ghost blog for a long time now. Way too long. Not that I put many things here anyway. Hopefully that will change soon. Anyway.
+
+<!-- more -->
 
 WordPress has a really simple way to update: push the update button. But it has a bunch of other things I don't like: it's bloated, based on mysql, not very portable, grumble grumble. It's just so much more than a blog. Ghost is just a blog where you write in markdown (which I really like), exportable to json, and the code is well written and compact. It's just right.
 

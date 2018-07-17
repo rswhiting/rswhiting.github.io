@@ -6,6 +6,8 @@ tags: [ Memory ]
 ---
 "Does anyone remember me?” The fawn repeated. Nearly the same surprised and confused expression painted the faces of all but one of the children gathered in front of him. Half the children stared at the goat-humanoid head, the other half stared at his hooved feet. His lack of clothing was the least of the many oddities.
 
+<!-- more -->
+
 Jack slowly raised his hand. Noticing the movement, the fawn did a double take. “What is your name young human?”
 
 “Jack.”

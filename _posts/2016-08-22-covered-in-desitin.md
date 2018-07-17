@@ -1,8 +1,8 @@
 ---
 title: Covered in Desitin
 layout: post
-categories:
-  - Story
+category: Story
+tags: [Kids, Life Lesson, Spiritual]
 ---
 One evening my wife and I were talking in the kitchen after dinner. After a few minutes of uninterrupted conversation, we knew something was wrong. Where is the two year old?
 

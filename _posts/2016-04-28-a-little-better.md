@@ -5,6 +5,8 @@ category: Stream
 ---
 Every day, do something to move your character one step toward the place you want to be when you grow up.
 
+<!-- more -->
+
 If that step is to go on a walk or sit in a quiet room for an hour to figure out where you need to move your character, do that.
 
 If you need to listen to self help books to get an idea of what some of the options are, do that.

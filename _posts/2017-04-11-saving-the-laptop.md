@@ -1,15 +1,16 @@
 ---
 title: Saving the laptop
 layout: post
-categories:
-  - Danny Rocket
-  - Story
+categories: Story
+tags: [Danny Rocket]
 ---
 The stone golems swatted at the bears, which put the flight from the bears earlier that day into a little perspective. He looked from golem to golem trying to pick out the tiny mouse on each shoulder.
 
 As he scanned across the mice, one locked eyes with him.
 
 _Barzilaih,_ the deep voice spoke in his head.
+
+<!-- more -->
 
 "What? No, I'm Danny. I think you're mistaking me for someone else."
 

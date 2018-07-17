@@ -2,11 +2,13 @@
 title: Corner Desk
 layout: post
 category: Project
-tags: [Office]
+tags: [Office, FixMe]
 ---
 My office was swallowed by a baby room, so I moved my computer to share the office with my wife.
 
 She was sick of her little desk, and I didn't really like my big desk--that trade was obvious. But I still need some semblance of a desk. At work, I use a standing desk because it helps me with better posture, so why not build one for the new office?
+
+<!-- more -->
 
 It only cost me $20, and some extra supplies from the overflowing garage:
 

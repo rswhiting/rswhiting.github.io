@@ -1,13 +1,14 @@
 ---
 title: An introduction
 layout: post
-categories:
-  - Danny Rocket
-  - Story
+categories: Story
+tags: [Danny Rocket]
 ---
 Danny Rocket grew up in Santa Barbara, California and moved to Boise, Idaho when he finished middle school. But that was years ago.
 
 He sat in one of the comfy chairs of a Starbucks just a few miles from home with a mocha. One week after graduating high school and he still didn't have a college picked out, let alone a career. It wasn't that he was an indecisive kid, he just had so many grandiose ideas about how he was going to change the world, that he never settled on a way to actually accomplish any of them.
+
+<!-- more -->
 
 His biggest fear was facing future and turning into a no one who accomplishes nothing--which is possibly the largest fear any high school student has when facing their own future. Everyone wants to be special and change the world but very few actually do. In all likelihood, Danny would probably fit much better into a fantastical world with wizards or aliens, but even then, he'd probably end up selling drinks at the tavern or something equally exciting.
 
@@ -27,7 +28,7 @@ Apparently one that can't keep control of his own characters, that's for sure. B
 
 The brisk spring air prompted Danny to put his hands in his pockets as he walked a few blocks to the greenbelt then North along the river. As he crossed a footbridge, he noticed something moving in the river. He ran to the railing and looked closely. Deep in the slow moving river, the form of a woman came to view, hair flowing gently with the current.
 
-As the panic set in, Danny yelled, "Help! somebody, there a&#8230;" but as he looked around, he realized that was nobody to yell to, so he stripped off his shoes and shirt and jumped over the guardrail.
+As the panic set in, Danny yelled, "Help! somebody, there a--" but as he looked around, he realized that was nobody to yell to, so he stripped off his shoes and shirt and jumped over the guardrail.
 
 The icy water hit him like a very sharp ton of bricks and if it weren't for his poor diving form, he would have inhaled a large mouthful of the river. Fortunately, his momentum thrust him down to the bottom of the river where he opened his eyes and remembered why he had jumped to begin with--there in front of him drifted a young woman in a white dress with her arms tightly hugging a long box.
 

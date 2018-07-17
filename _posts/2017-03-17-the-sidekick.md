@@ -1,13 +1,14 @@
 ---
 title: The sidekick
 layout: post
-categories:
-  - Danny Rocket
-  - Story
+categories: Story
+tags: [Danny Rocket]
 ---
 When Danny finally got home, the dog greeted him by lifting her head and huffing once, then on recognizing him laid her head back down with a dumb smile and one and a half tail wags. Danny walked over and scratched behind the dog’s ears.
 
 The dog is not the sidekick.
+
+<!-- more -->
 
 “Danny? Is that you?” The motherly voice came from the family room where the sound of courtroom drama also drifted.
 
@@ -45,6 +46,6 @@ Jimmy stared in disbelief at his crazy little brother. “A disembodied voice is
 
 After a final glare at the ceiling, Danny sighed, picked up his chair and told his brother about the events of the day, sighting the oil change receipt and sword box complete with the odd addresses. Jimmy began listening with a patronizing expression that gradually faded to wonder then to concern.
 
-“&#8230;so I never got a chance to find out where this Northern Kingdom is, or who I should talk to if I do find it.”
+“So, I never got a chance to find out where this Northern Kingdom is, or who I should talk to if I do find it.”
 
 Jimmy sat on the edge of the bed staring at the sword. After a long silence that didn’t seem as awkward as you might be imagining, Jimmy said, “This voice that seems to have a lot of control over today wants me to be a sidekick to a wizard? If it wasn’t you, I’d say sign me up, but I guess the sidekick doesn’t always get to pick his wizard. So where do you suppose we’ll find this ‘Northern Kingdom,’ Canada?”

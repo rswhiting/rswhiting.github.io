@@ -1,10 +1,10 @@
 ---
 title: Versioned endpoints again
 layout: post
-categories:
-  - Software
+category: Software
+tags: [API, Rest]
 ---
-##tl;dr
+## tl;dr
   
 We're breaking downstream resources because of changing apis.
   
@@ -12,20 +12,22 @@ Aside from perfect communication and foresight, the best way to solve this is wi
 
 Of the options, I think the **accept header** is best option.
 
+<!-- more -->
+
 [Troy Hunt -- Your API versioning is wrong](https://www.troyhunt.com/your-api-versioning-is-wrong-which-is/)
 
-##3 options
+## 3 options
   
 Troy Hunt provides three common methods for versioning apis and points out all the benefits and pitfalls with them all. His article is long, but definitely worth the read if you're interested in these things. This is my summary:
 
-###url
+### url
 
     http://app:9000/app-ws/v1/thing/to/get
     
 
 This is what a few projects at work have used to identify versioned endpoints, and it was the first thing I assumed to be the "right" answer when it came to simplicity. Unfortunately, implementing this method requires a the most code complexity–extra interfaces or copied code, extra logic to handle smart defaults, and non-compliant backwards compatibility with existing endpoints (the ones that don't have the "v1" in the middle of a resource). This method also breaks the rest idea that a url is a location--a version is not a location.
 
-###request header
+### request header
 
     http://app:9000/app-ws/thing/to/get
     Headers: "version:1"
@@ -33,7 +35,7 @@ This is what a few projects at work have used to identify versioned endpoints, a
 
 This method uses a custom defined header that duplicates the purpose of the accept header. This one is hack towards a good idea when the right way to do it is right there in the spec.
 
-###accept header
+### accept header
 
     http://app:9000/app-ws/thing/to/get
     Accept: application/vnd.app.v1+json
@@ -62,7 +64,7 @@ In the following example, getStuffV1 is the default and version 1, while getStuf
     }
     
 
-##conclusion
+## conclusion
   
 I tried to put my conclusion up front. If these simple arguments haven't convinced you, please do some research on it and bring some arguments back. Don't just do the theoretical research either. Build out a resource for each that answers these questions:
 

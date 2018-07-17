@@ -1,13 +1,14 @@
 ---
 title: Bear epidemic
 layout: post
-categories:
-  - Danny Rocket
-  - Story
+categories: Story
+tags: [Danny Rocket]
 ---
 "Do you think they're gone?" Jimmy asked as he paced the parking garage stairwell landing.
 
 Danny stood by the door, watching out the reinforced window down at the street below. "Depends on if they were just running through or wanted to move in."
+
+<!-- more -->
 
 "And why bears? What could possibly make so many of them leave the mountains all at once? I didn't even think Idaho had that many bears."
 

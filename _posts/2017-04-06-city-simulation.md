@@ -1,10 +1,12 @@
 ---
 title: City simulation
 layout: post
-categories:
-  - Software
+category: Software
+tags: [Transportation, Design]
 ---
 I've always been facinated by population simulation. Which, I recognize, is an odd thing for anyone to plant their interests. Here are some examples that I find facinating:
+
+<!-- more -->
 
   * Sim City 2000 -- I grew up playing it. It uses high level stats to show demand between residential, commercial, and industrial sectors, then it simulates traffic based on roads size and zone demand. I think this is where the interest started.
   * Skyrim -- I recognize that they don't run full cities here, but this game helped me really appreciate a schedule for each NPC (non-player character) to follow to have even a semblance of a realistic city population. Characters in the marketplace each have a home where they sleep at night. They each walk to work in the morning, sand behind their stall, then go home. It's facinating.

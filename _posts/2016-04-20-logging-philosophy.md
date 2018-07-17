@@ -2,8 +2,13 @@
 title: Logging Philosophy
 layout: post
 category: Software
+tags: [Philosophy, Logging]
 ---
-####Why logging?
+I've compiled my logging philosophy into a single place so that I can reference it for later. Here is what I've found so far...
+
+<!-- more -->
+
+## Why logging?
   
 **Troubleshooting** -- Show context and details for when the unexpected/undesired happens (developers)
 
@@ -11,7 +16,7 @@ category: Software
 
 **Legal** -- Because we live in a world where you have to protect your butt legally (audit & legal)
 
-####Summarized levels
+## Summarized levels
   
 **DEBUG** Detailed context for troubleshooting an issue.
 
@@ -23,13 +28,13 @@ category: Software
 
 **FATAL** The process cannot recover. The app will likely die and may take the vm with it.
 
-####In practice
+## In practice
 
-######Levels in more detail
+### Levels in more detail
 
 > **Note:** I have combined these levels from blogs such as the _[The Art of Logging](http://www.codeproject.com/Articles/42354/The-Art-of-Logging)_, _[Log Level Philosophy](http://tech.puredanger.com/2008/03/25/log-levels/)_, _[The 10 Commandments of Logging](http://www.masterzen.fr/2013/01/13/the-10-commandments-of-logging/)_, as well as best practices from industry leaders: _[Google](http://googletesting.blogspot.com/2013/06/optimal-logging.html)_, _[Apple](https://developer.apple.com/library/mac/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/LoggingErrorsAndWarnings.html)_, _[Python](https://docs.python.org/2/howto/logging.html)_, and _[Atlassian](https://developer.atlassian.com/confdev/development-resources/confluence-architecture/logging-guidelines)_. 
 
-######Debug
+### Debug
   
 Debug messages should be aimed directly at future you or future [insert other dev] who will be troubleshooting your code. These are the hardest messages to write because you need to output as much information as possible without flooding the log with useless garbage.
 
@@ -40,10 +45,10 @@ Debug messages should be aimed directly at future you or future [insert other de
 Debug messages should be very abundant in the development phase of a project and significantly pruned as the application nears production. _Only the most meaningful messages should remain in production._
 
 > I’d advocate trimming down the number of debug statement before entering the production stage, so that only the most meaningful entries are left
-    
-> -- [10 Commandments of Logging](http://www.masterzen.fr/2013/01/13/the-10-commandments-of-logging/) 
+> 
+> ~ [10 Commandments of Logging](http://www.masterzen.fr/2013/01/13/the-10-commandments-of-logging/) 
 
-######Info
+### Info
   
 Info should represent represent a correctly functioning application with useful and specific. If it is not data-rich, it is probably not a good log message: `Unrecognized field "*" found in json when deserializating`
 
@@ -51,7 +56,7 @@ Info should represent represent a correctly functioning application with useful 
 > 
 > ~ [10 Commandments of Logging](http://www.masterzen.fr/2013/01/13/the-10-commandments-of-logging/) 
 
-######Warning
+### Warning
   
 Warning is the first of the actual failure levels. A warn message means that **the system can recover and the user is not affected.**
 
@@ -61,13 +66,13 @@ Warning is the first of the actual failure levels. A warn message means that **t
 > 
 > ~ [Atlassian: Logging Guidelines](https://developer.atlassian.com/confdev/development-resources/confluence-architecture/logging-guidelines) 
 
-######Error
+### Error
   
 Something is actually broken and needs to be fixed. If this appears in a production log, it should merit immediate action.
 
 This is where a the database connection is dropped, where servers are unresponsive, where clients and business are lost.
 
-######Fatal
+### Fatal
   
 Fatal (also called critical) means the application cannot recover (or start). It will die and potentially bring down other systems that rely on it. If it's really bad, it may bring down the vm. Please explain why in concise detail.
 
@@ -77,7 +82,7 @@ Fatal (also called critical) means the application cannot recover (or start). It
 
 Many logging systems don't use this level because it's too late, but the most meaningful words people say are often on their deathbeds. Our applications can also give us insight into how they lived and how they died if we give them the opportunity.
 
-#####Google's good/bad lists
+### Google's good/bad lists
   
 **Good things to log** (_[Google: Optimal Logging](http://googletesting.blogspot.com/2013/06/optimal-logging.html)_)
 
@@ -102,7 +107,7 @@ Many logging systems don't use this level because it's too late, but the most me
   * Benign errors -- Errors that are not really errors can confuse the log reader. This sometimes happens when exception handling is part of successful execution flow.
   * Repetitive errors -- Do not repetitively log the same or similar error. This can quickly fill a log and hide the actual cause. Frequency of error types is best handled by monitoring. Logs only need to capture detail for some of those errors.
 
-#####More like guidelines
+### More like guidelines
 
 > **Note:** I took some liberties summarizing and pruning _[The 10 Commandments of Logging](http://www.masterzen.fr/2013/01/13/the-10-commandments-of-logging/)_ 
 
@@ -122,7 +127,7 @@ Many logging systems don't use this level because it's too late, but the most me
 
 **Do not log only for troubleshooting** -- Logging is not just for troubleshooting a specific problem. It is for **auditing and telemetry** as well. Talk to your auditor and telemetrist to discover what they need to pass through to the logs.
 
-#### Sources
+## Sources
 
   * [Google: Optimal Logging](http://googletesting.blogspot.com/2013/06/optimal-logging.html)
   * [MasterZen: 10 commandments of logging](http://www.masterzen.fr/2013/01/13/the-10-commandments-of-logging/)

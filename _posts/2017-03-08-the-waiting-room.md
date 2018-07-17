@@ -1,15 +1,16 @@
 ---
 title: The waiting room
 layout: post
-categories:
-  - Danny Rocket
-  - Story
+categories: Story
+tags: [Danny Rocket]
 ---
 Danny sat in a waiting room.
 
 Ah, buckets, I forgot where I was.
 
 He glanced upwards and muttered under his breath, “Wow, worst sentence written by any author ever.”
+
+<!-- more -->
 
 Hey, you’re the character here, I’m the writer. This is a rough draft you know. I’ll catch it on the second pass.
 

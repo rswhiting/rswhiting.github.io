@@ -2,11 +2,13 @@
 title: Padawan Michael Wookie
 layout: post
 category: Story
-tags: [ Star Wars ]
+tags: [ Star Wars, Michael Wookie ]
 ---
 My 2 year old walked into my office, sat on a chair and grinned up at me. “A Stawas stowie.”
 
 “A Star Wars story?”
+
+<!-- more -->
 
 “Yeah!”
 

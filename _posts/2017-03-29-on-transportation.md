@@ -1,12 +1,12 @@
 ---
 title: On transportation
 layout: post
-categories:
-  - Rambling
-tags:
-  - Transportation
+category: Stream
+tags: [ Transportation ]
 ---
 Tesla apparently passed Ford recently in value as a company, and rightly so. Tesla makes all-electric vehicles and continually makes strides in the automated vehicle field. The people killed in car "accidents" every year is staggering. Especially when we consider how easily we as a society could save those lives.
+
+<!-- more -->
 
 I put accident in quotes because by definition accidents are unexpected, but we know that distracted drivers will kill hundreds of thousands of people in the next few years. Humans are really bad at repeated monotonous tasks. Our brains seek stimulation, challenge, and distraction. Distracted driver doesn't even mean that they were texting or tying their shoes, they could have just spaced out--it was a long day and traffic is boring.
 
