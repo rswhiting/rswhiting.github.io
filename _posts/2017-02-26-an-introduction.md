@@ -53,3 +53,7 @@ She sat there smiling prettily at him until he realized that she was waiting for
 He marvelled at how the cardboard box with Amazon Prime tape all over it had stayed dry for the whole episode with the river, but odd things seemed to be happening, so he brushed the thought off. He glanced at the girl. She had swung her legs down to sit on the edge of the table, and she watched him expectantly.
 
 Inside the box, he found a black cloth, and inside it, a sword.
+
+---
+
+[Danny Rocket](/danny-rocket) => [The sword](/story/2017/03/04/the-sword)
