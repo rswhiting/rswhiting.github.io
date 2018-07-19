@@ -4,21 +4,15 @@ layout: post
 category: Hobby
 tag: [Philosophy, FixMe]
 ---
->A good hobby draws me closer to God
+>A good hobby draws me closer to God or closer to people.
 >
->or closer to people.
+>It benefits my own character or sharpens my skill.
 >
->It benefits my own character
+>It builds contentment and satisfaction instead of demanding more.
 >
->or sharpens my skill.
->
->It builds contentment and satisfaction
->
->instead of demanding more.
->
->It leaves me calm and either tired or energetic,
->
->not lethargic or frustrated.
+>It leaves me calm and either tired or energetic, not lethargic or frustrated.
+
+<!-- more -->
 
 Now to put it to the test.
 

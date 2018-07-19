@@ -8,6 +8,8 @@ One evening my wife and I were talking in the kitchen after dinner. After a few 
 
 Any time he's quiet for more than a few minutes, he's either taking a nap or doing something in secret--never a good sign.
 
+<!-- more -->
+
 The baby room door was shut, so I decided to check there first. I opened the door, and there on the changing table knelt my two year old. He was looking at his hands in front of him--covered in a generous layer of desitin--mortified.
 
 He knows that he's not supposed to play with medicine, but he had a spot on his face that was irritated. He looked over and saw he standing in the doorway.
