@@ -1,7 +1,7 @@
 ---
 title: The form of the Church
 layout: post
-categories:
+category:
   - Spiritual
 ---
 What should the Church look like?

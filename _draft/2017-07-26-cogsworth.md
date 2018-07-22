@@ -1,7 +1,7 @@
 ---
 title: Cogsworth
 layout: post
-categories:
+category:
   - Maurice
   - Story
 ---

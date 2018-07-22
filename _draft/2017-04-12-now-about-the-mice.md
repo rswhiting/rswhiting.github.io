@@ -1,9 +1,8 @@
 ---
 title: Now about the mice
 layout: post
-categories:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [Danny Rocket, FixMe]
 ---
 Now, I realize that the interactions with the mice turned out to be very short lived, and pending some bright flash of creativity to tie them back into the story and allow some major monologues, their backstory won't ever be told in earnest. So we'll take a small break from our "hero" and focus on the tiny, powerful, robed mice.
 

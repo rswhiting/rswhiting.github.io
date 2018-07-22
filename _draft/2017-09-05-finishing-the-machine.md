@@ -1,7 +1,7 @@
 ---
 title: Finishing the machine
 layout: post
-categories:
+category:
   - Maurice
   - Story
 ---

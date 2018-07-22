@@ -1,7 +1,7 @@
 ---
 title: 'Nobody's fight'
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---

@@ -1,7 +1,7 @@
 ---
 title: The second challenge
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---

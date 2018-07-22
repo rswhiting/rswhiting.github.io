@@ -1,7 +1,7 @@
 ---
 title: Glowing sword
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---

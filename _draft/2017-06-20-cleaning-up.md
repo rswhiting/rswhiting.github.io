@@ -1,7 +1,7 @@
 ---
 title: Cleaning up
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---

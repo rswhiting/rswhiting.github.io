@@ -1,7 +1,7 @@
 ---
 title: Retrieving the sword
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---

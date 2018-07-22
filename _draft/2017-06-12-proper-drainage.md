@@ -1,7 +1,7 @@
 ---
 title: Proper drainage
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---

@@ -1,7 +1,7 @@
 ---
 title: Highcrag castle
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---

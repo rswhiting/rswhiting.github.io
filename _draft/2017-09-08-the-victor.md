@@ -1,7 +1,7 @@
 ---
 title: The victor
 layout: post
-categories:
+category:
   - Maurice
   - Story
 ---

@@ -1,7 +1,7 @@
 ---
 title: Justice of a loving God
 layout: post
-categories:
+category:
   - Rambling
   - Spiritual
 ---

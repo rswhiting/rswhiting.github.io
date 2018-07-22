@@ -1,7 +1,7 @@
 ---
 title: High wizard registration
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---

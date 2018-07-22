@@ -1,7 +1,7 @@
 ---
 title: Command and Consensus
 layout: post
-categories:
+category:
   - A Serious Rob
   - Leadership
 ---

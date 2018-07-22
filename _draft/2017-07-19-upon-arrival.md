@@ -1,7 +1,7 @@
 ---
 title: Upon arrival
 layout: post
-categories:
+category:
   - Maurice
   - Story
 ---

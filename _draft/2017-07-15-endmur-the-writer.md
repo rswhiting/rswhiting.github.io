@@ -1,7 +1,7 @@
 ---
 title: Endmur the writer
 layout: post
-categories:
+category:
   - Middle Earth
   - Story
 ---

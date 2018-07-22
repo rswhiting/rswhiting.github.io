@@ -1,7 +1,7 @@
 ---
 title: The welcome fairy
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---

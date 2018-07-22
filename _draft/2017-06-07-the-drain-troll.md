@@ -1,7 +1,7 @@
 ---
 title: The drain troll
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---

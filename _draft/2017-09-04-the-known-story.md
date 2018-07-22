@@ -1,7 +1,7 @@
 ---
 title: The known story
 layout: post
-categories:
+category:
   - Maurice
   - Story
 ---

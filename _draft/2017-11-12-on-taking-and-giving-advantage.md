@@ -1,7 +1,7 @@
 ---
 title: On taking and giving advantage
 layout: post
-categories:
+category:
   - A Serious Rob
   - Leadership
 ---

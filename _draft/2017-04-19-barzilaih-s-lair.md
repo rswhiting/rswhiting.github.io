@@ -1,7 +1,7 @@
 ---
 title: 'Barzilaih's lair'
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---

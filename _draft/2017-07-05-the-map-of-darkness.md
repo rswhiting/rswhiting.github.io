@@ -1,7 +1,7 @@
 ---
 title: The map of darkness
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---

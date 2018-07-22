@@ -1,7 +1,7 @@
 ---
 title: Building a kegerator
 layout: post
-categories:
+category:
   - Hobbies
   - Project
 ---

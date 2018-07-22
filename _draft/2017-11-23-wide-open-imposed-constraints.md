@@ -1,7 +1,7 @@
 ---
 title: Wide open imposed constraints
 layout: post
-categories:
+category:
   - A Serious Rob
 ---
 > <span style="color: rgb(122, 122, 122); font-family: Georgia, Times, serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">What are some useful and detrimental constraints, self imposed or otherwise? I’m leaving this one wide open as a bit of a joke.</span>

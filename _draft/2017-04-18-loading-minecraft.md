@@ -1,7 +1,7 @@
 ---
 title: Loading minecraft
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---

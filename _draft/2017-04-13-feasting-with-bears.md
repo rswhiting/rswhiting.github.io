@@ -1,9 +1,8 @@
 ---
 title: Feasting with bears
 layout: post
-categories:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [Danny Rocket, FixMe]
 ---
 After the introductions, Beorn invited Danny and Jimmy to eat with him while they discussed important matters. They all sat at a large table with at least ten other bears and filled their plates with all kinds of berries and nuts.
 

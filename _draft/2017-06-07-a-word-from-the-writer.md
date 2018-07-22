@@ -1,7 +1,7 @@
 ---
 title: A word from the writer
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---

@@ -1,7 +1,7 @@
 ---
 title: Muffin the landlord
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---

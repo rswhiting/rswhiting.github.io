@@ -1,7 +1,7 @@
 ---
 title: Growing up
 layout: post
-categories:
+category:
   - Maurice
   - Story
 ---

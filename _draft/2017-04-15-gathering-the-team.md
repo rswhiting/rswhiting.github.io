@@ -1,7 +1,7 @@
 ---
 title: Gathering the team
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---

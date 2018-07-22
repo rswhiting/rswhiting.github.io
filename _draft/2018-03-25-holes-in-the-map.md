@@ -1,7 +1,7 @@
 ---
 title: Holes in the map
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---

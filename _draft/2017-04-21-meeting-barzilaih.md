@@ -1,7 +1,7 @@
 ---
 title: Meeting Barzilaih
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---

@@ -1,7 +1,7 @@
 ---
 title: Where did Danny go?
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---

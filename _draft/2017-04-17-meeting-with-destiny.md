@@ -1,7 +1,7 @@
 ---
 title: Meeting with Destiny
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---

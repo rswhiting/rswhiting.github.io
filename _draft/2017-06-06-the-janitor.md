@@ -1,7 +1,7 @@
 ---
 title: The janitor
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---

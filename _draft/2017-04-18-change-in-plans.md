@@ -1,7 +1,7 @@
 ---
 title: Change in plans
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---

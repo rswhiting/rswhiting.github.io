@@ -1,7 +1,7 @@
 ---
 title: Dragon slaying
 layout: post
-categories:
+category:
   - Danny Rocket
   - Story
 ---
