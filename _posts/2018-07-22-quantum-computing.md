@@ -8,6 +8,8 @@ With quantum computers come the promise of a golden age of computing where every
 
 Obviously that's not an entirely accurate view of reality.
 
+<!-- more -->
+
 I've had an interest in quantum computing since I first heard about it, but it always seemed theoretical and unattainable in my lifetime. But here we are in 2018 with [16 qubit processors](https://www.scientificamerican.com/article/chinese-researchers-achieve-stunning-quantum-entanglement-record/) and emulators [written in Python](https://github.com/quantumlib/Cirq). It's an exciting time to be alive.
 
 Why is it exciting?
