@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bam! First Github.io post!
-category: Stream
+category: Blog
 tags: []
 ---
 
