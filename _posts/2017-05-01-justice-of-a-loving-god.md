@@ -8,6 +8,8 @@ If God is all powerful and good then why is there evil in the world?
 
 It's a classic question that agnostics often use as a shield to keep themselves from digging deep into their own souls. Souls tend to be pretty dark and lonely places to explore.
 
+<!-- more -->
+
 Today, I put a piece together that I had never though of before. God, in his infinite wisdom, chose to demonstrate a few insufficient options before providing his ultimate solution to the problem of dischord in the world.
 
 We'll need to go back to the beginning though.

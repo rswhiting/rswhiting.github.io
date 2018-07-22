@@ -1,5 +1,5 @@
 ---
-title: 'Barzilaih's lair'
+title: "Barzilaih's lair"
 layout: post
 category: Story
 tags: [Danny Rocket, FixMe]
