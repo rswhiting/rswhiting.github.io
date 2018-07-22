@@ -1,13 +1,14 @@
 ---
 title: Muffin the landlord
 layout: post
-category:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [ Danny Rocket]
 ---
 Danny woke up slowly. He didn't remember falling asleep.
 
 The bed was soft but short--his feet hung off the end. He did remember knocking on a drawbridge to a tiny castle.
+
+<!-- more -->
 
 The sheets had a bunch of dancing elephants printed on it. He remembered everyone jumping out of the way when they heard chains and gears moving inside.
 

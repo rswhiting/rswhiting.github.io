@@ -1,13 +1,14 @@
 ---
 title: Holes in the map
 layout: post
-category:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [Danny Rocket]
 ---
 After a breakfast of Honey Nut Cheerios and apple juice, the group set out from the tiny castle with Muffin the Landlord leading the way.
 
 The tiny turbaned man led them into a forest, following a brick path that weaved back and forth around the trees. The path almost overlapped with itself several times where it almost entirely circled a large tree.
+
+<!-- more -->
 
 At one such juncture, Jimmy mentioned it to Muffin, "Can't we just cut through right here? The path goes around the tree to right there."
 
@@ -57,6 +58,6 @@ They walked back down the winding path slowly and silently until they arrived at
 
 As they sat around the fire pit in the castle courtyard staring despairingly into the flames, an owl arrived with a note.
 
-"Meet me at the the library of Austin, Texas. -<seer person from earlier in the story>"
+"Meet me at the the library of Austin, Texas. -{seer person from earlier in the story}"
 
 Danny looked up at Benny, Jimmy, and Jenny and said, "Something is seriously wrong."

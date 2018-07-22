@@ -1,11 +1,12 @@
 ---
 title: Command and Consensus
 layout: post
-category:
-  - A Serious Rob
-  - Leadership
+category: Blog
+tags: [ A Serious Rob, Leadership]
 ---
 Communicating expectations and work completed in a shared employee log is a phenomenal example of grass roots management (bottom up). Your team identified a problem with a communication root cause and acted on it by coming up with a shared communication system to reduce misunderstandings. Your team got buy in. No one said, "Here's a new system you must do because I said so."
+
+<!-- more -->
 
 I would even go so far as to say that your types of management can be simplified further. Instead of top-down, lateral, and bottom up, I would argue that there are only two kinds: command or consensus.
 

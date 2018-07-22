@@ -1,15 +1,16 @@
 ---
 title: On taking and giving advantage
 layout: post
-category:
-  - A Serious Rob
-  - Leadership
+category: Blog
+tags: [ A Serious Rob, Leadership]
 ---
-> <span style="color: rgb(122, 122, 122); font-family: Georgia, Times, serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">These cycles gain momentum like freight trains over time, and eventually they seem unstoppable. But things were good once before they went bad. And many thing which were once bad are now good. From the leadership side; what advice would you give for turning a vicious cycle virtuous, and for preventing a good thing from turning bad?</span>
+> These cycles gain momentum like freight trains over time, and eventually they seem unstoppable. But things were good once before they went bad. And many thing which were once bad are now good. From the leadership side; what advice would you give for turning a vicious cycle virtuous, and for preventing a good thing from turning bad?
 > 
 > -- [A Serious Dan](https://aseriousdan.wordpress.com/2017/11/09/if-i-am-not-for-myself/)
 
 Brother, to be honest, I didn't expect you to follow through and write me a public letter to discuss leadership principles across bartending and software. But I'm glad you did.
+
+<!-- more -->
 
 One of the best lessons I've learned in software that's kept me from becoming Doormat of the Year while still pleasing bosses and getting stuff done well is setting firm boundaries. Early on, I set the precident that I would only work 45 hours a week in my software job, and I'd prefer to average 40-42 hours a week.
 
