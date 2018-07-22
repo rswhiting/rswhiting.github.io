@@ -13,7 +13,7 @@ Where _was_ Danny? He hadn't logged on in days. That wasn't like him.
 
 She opened up a connection to Facebook and used the saved defaults. _What was that girls name again? Cadie, Canola, Carmen, Cameron, Casidy, Casablanca, Cabby, Candy._
 
-Facebook had a wealth of information on all people if you could comb through it enough to find it. Candy had tagged pictures of Danny from earlier in the summer, but her more recent images&#8230;
+Facebook had a wealth of information on all people if you could comb through it enough to find it. Candy had tagged pictures of Danny from earlier in the summer, but her more recent images--
 
 To Danny's computer, images weren't so much a visual thing to look at as they were a bunch of header data prepended onto a blob of really annoying math. Fortunately, the header data had geotag information in it. Using the geotag info, she found the location of the last picture that Candy had posted to Facebook (publicly).
 

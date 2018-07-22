@@ -6,6 +6,8 @@ tags: [Danny Rocket, FixMe]
 ---
 Now, I realize that the interactions with the mice turned out to be very short lived, and pending some bright flash of creativity to tie them back into the story and allow some major monologues, their backstory won't ever be told in earnest. So we'll take a small break from our "hero" and focus on the tiny, powerful, robed mice.
 
+<!-- more -->
+
 Ravens and owls generally fill the roll as wizard assistant throughout the world with a few notable exceptions. Mice, however, have the unique ability to sneak into places where they are not welcome or known.
 
 Many decades ago, a mouse now forgotten by time and probably never known by any other intelligent life, chanced across an intelligence potion. Legend tells of an epic battle for the potion, but since no one can trace it to actual historical events, it is likely that the mouse simply needed a drink or the owner threw a vial at him. However it happened, this one mouse became very smart.

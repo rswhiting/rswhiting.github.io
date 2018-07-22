@@ -9,6 +9,8 @@ Danny thought back. It made way more sense now. Dragons don't blow cotton candy 
 
 The dragon dug through the ice at the center of the blast radius. He seemed to be looking for something and getting more panicked by the minute.
 
+<!-- more -->
+
 In a low voice, Danny asked Jenny, "How do I kill it?"
 
 "I just whacked at it with my sword until its health bar drained. I doubt it'll work that way out here though."

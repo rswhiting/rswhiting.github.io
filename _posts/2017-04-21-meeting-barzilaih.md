@@ -1,11 +1,12 @@
 ---
 title: Meeting Barzilaih
 layout: post
-category:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [Danny Rocket, FixMe]
 ---
 Candy lay on Danny's bed chewing bubble gum and pouring her energies into her phone--likely Facebook, but potentially Instagram or SnapChat. Yes, I can put current social trends directly into the story because I have little to no concern for saving this story from outdated references. This is practically writer suicide, watch me care.
+
+<!-- more -->
 
 Benny had also lost interest in the pixellated game and found entertainment down the hall, where he discovered how fulfilling it felt to flush random objects down the toilet repeatedly.
 
@@ -20,7 +21,7 @@ Under the tavern, Danny found a large room mostly filled with chests. He thought
     protected zone, no modifications allowed by unauthorized users.
     
 
-_Oh yeah,_ he thought, _some of the servers add protections for bases. I should really play more minecraft, I like what they've done with it&#8230;_
+_Oh yeah,_ he thought, _some of the servers add protections for bases. I should really play more minecraft, I like what they've done with it--_
 
 Then the local chat in minecraft started to populate:
 

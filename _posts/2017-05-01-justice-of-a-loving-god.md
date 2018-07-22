@@ -1,9 +1,8 @@
 ---
 title: Justice of a loving God
 layout: post
-category:
-  - Rambling
-  - Spiritual
+category: Spiritual
+tags: []
 ---
 If God is all powerful and good then why is there evil in the world?
 

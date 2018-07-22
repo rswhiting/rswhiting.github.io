@@ -8,6 +8,8 @@ After the introductions, Beorn invited Danny and Jimmy to eat with him while the
 
 Beorn listened to the tale of how Danny received the sword and the journey he had all the way to the table where they sat.
 
+<!-- more -->
+
 Then Beorn spoke, "I heard through the trees that the High Wizard died just a days ago. Which of course means that he died between a few days and a few months ago. Trees have a very skewed view of time. To them, a day to be an actual day or a year--probably because they only sleep once a year through winter. Except the evergreens. Never get into a conversation with an evergreen if you can avoid it. Unfortunately, they're all over the mountains, and they're the only ones awake enough in winter to get any news."
 
 He looked over at the brothers, who both sat rather dumb founded. He continued, "You seem to have a lot to learn, if you didn't know about the trees, then you're at least one step behind the other candidates. How do you plan on catching up?"

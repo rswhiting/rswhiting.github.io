@@ -1,13 +1,14 @@
 ---
 title: 'Barzilaih's lair'
 layout: post
-category:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [Danny Rocket, FixMe]
 ---
 "You're computer is super old. As soon as you get a real job, you should replace it." Jimmy pointed a finger at the laptop, "It's struggling to get Minecraft open! Barzilaih's going to beat the challenges, become High Wizard, and die of old age before this thing starts."
 
-"There's nothing wrong with my laptop," Danny defended, "it's a little old, but it does the job. If you're so impatient, why don't you practice your &#8216;wizarding aid' and get me a coke?"
+<!-- more -->
+
+"There's nothing wrong with my laptop," Danny defended, "it's a little old, but it does the job. If you're so impatient, why don't you practice your 'wizarding aid' and get me a coke?"
 
 Jimmy almost retorted but the Minecraft main page appeared and distracted him. Danny typed in the server IP and port and joined the public server.
 

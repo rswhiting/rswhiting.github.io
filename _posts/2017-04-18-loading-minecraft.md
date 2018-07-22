@@ -1,11 +1,12 @@
 ---
 title: Loading minecraft
 layout: post
-category:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [Danny Rocket, FixMe]
 ---
 Back in Boise, the whole group crowded around Danny's desk. Loading with the familiar Mojang red-on-white logo, the laptop purred with excitement.
+
+<!-- more -->
 
 First, she logged Danny in by sending a message to the minecraft central server--which she new was an over simlification, because when that message arrived, it would be semi-randomly assigned to an available server by a load balancing HA server. Either way, the server responded quickly with some questions to confirm Danny's identity. The laptop had the response ready to assure the servers that Danny really wanted to play minecraft and should let him in.
 

@@ -1,11 +1,12 @@
 ---
 title: Gathering the team
 layout: post
-category:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [Danny Rocket, FixMe]
 ---
 The next day Danny and Jimmy gathered supplies, drew up plans, and recoverd from that horrible hike up the mountain the day before. Beorn claimed that he was too busy running the kingdom of the bears to join Danny in his quest, but that one of his right hand bears had volunteered to aid Danny as a part of his team, and more importantly, represent the kingdom of bears to the potential High Wizard despite the extreme unlikelyhood.
+
+<!-- more -->
 
 Benny wasn't the tallest, strongest, or smartest of the bears, but he did have a cool scar across a dead eye. So it's at least possible that he had seen combat. He did refuse to let Jimmy ride him then or ever when they decided to make their way back to Boise, but he was willing to carry some of the supplies.
 

@@ -1,7 +1,7 @@
 ---
 title: An introduction
 layout: post
-categories: Story
+category: Story
 tags: [Danny Rocket]
 ---
 Danny Rocket grew up in Santa Barbara, California and moved to Boise, Idaho when he finished middle school. But that was years ago.

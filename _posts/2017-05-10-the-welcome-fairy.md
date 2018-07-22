@@ -1,13 +1,14 @@
 ---
 title: The welcome fairy
 layout: post
-category:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [Danny Rocket, FixMe]
 ---
 Danny stood in the middle of a dense fog that smelled very strongly of garlic. His head spun, and he tried to avoid breathing in the evaporated dragon as much as possible. Part of him wanted to walk away, but his legs wouldn't react to his brain.
 
 _Is this what shock feels like?_
+
+<!-- more -->
 
 A butterfly drifted through the fog then fluttered in a circle. Sparks appeared in the circle where the butterfly still flew, then a fairly large middle aged woman appeared. She wore a puffy pink dress, and giant butterfly wings protruded from her back. On her head, she had a tiara, and in her right hand she carried a wand with a star-shaped cutout on the tip.
 

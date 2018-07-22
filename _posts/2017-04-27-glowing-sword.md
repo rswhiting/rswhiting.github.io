@@ -1,13 +1,14 @@
 ---
 title: Glowing sword
 layout: post
-category:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [Danny Rocket, FixMe]
 ---
 Benny led the retreat by large margin, followed by Candy (who could run surprisingly fast), then Danny and Jimmy, but Danny glanced back.
 
 Standing in the open field next to the clock tower, Jenny defied the dragon. She faced the dragon with a ready stance, and in that moment, Danny knew that he had to do the same. He skidded to a stop, turned around, and began his sprint back toward the cloaked woman standing in a field.
+
+<!-- more -->
 
 * * *
 

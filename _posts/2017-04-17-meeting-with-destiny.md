@@ -1,11 +1,12 @@
 ---
 title: Meeting with Destiny
 layout: post
-category:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [Danny Rocket, FixMe]
 ---
 After a lengthy discussion about how to find Barzilaih, they settled back on the original plan of searching out Destiny. You may have forgotten all about Destiny. She already played an important role in this story. She sent the sword to Candy to give to Danny. Other than the mice and Barzilaih, she's the only character we haven't really covered who might actually have some answers.
+
+<!-- more -->
 
 Unfortunately, she lived in Indiana or Iowa. What? I don't remember these trivial details, her address wasn't important at the time, which is why it sounded so unimportant at the time.
 

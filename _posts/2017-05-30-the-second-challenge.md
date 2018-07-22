@@ -1,11 +1,12 @@
 ---
 title: The second challenge
 layout: post
-category:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [Danny Rocket, FixMe]
 ---
 A couple weeks went by, and the unlikely group of wizards spent most of their time at the local Library! reading up on ancient lore. They had absolutely no idea how to find the key or the door or whatever it was that they were looking for.
+
+<!-- more -->
 
 Wizarding competitions look fast pace and exciting in the movies--they even look fairly high-paced in the books, but in this story, it was extremely slow and tedius. They weren't even looking in the right places, which has a way of extending a research venture.
 

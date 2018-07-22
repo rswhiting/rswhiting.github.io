@@ -1,11 +1,12 @@
 ---
 title: High wizard registration
 layout: post
-category:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [Danny Rocket, FixMe]
 ---
 Danny sat dumbfounded for a little while, then said, "Let me see if I understand what's happening. You're telling me that I'm a contender for the role of High Wizard. I'm the team captain for the Northern Kingdom team, and the mice and bears are trying to help me by kidnapping me to help me win then gain my favor? Sounds really messed up. And who is Barzilaih?"
+
+<!-- more -->
 
 Beorn considered for a moment, "That about sums it up. Barzilaih. That's the name the mice gave? It sounds like another candidate from the Northern Kingdom since they're based here, but there's only one candidate per region. And you have the sword." He folded his paws and stared off into space for a while. Then his eye grew in recognition, and he turned to face Danny, "You did register, didn't you?"
 
