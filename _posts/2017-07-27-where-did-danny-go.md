@@ -1,11 +1,12 @@
 ---
 title: Where did Danny go?
 layout: post
-category:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [Danny Rocket]
 ---
 Danny's computer was bored. She kept picking out pictures from the folder to show Danny, but it didn't seem like he was there. She knew that sometimes he would go away for a while, but he usually powered her down so that time wouldn't pass.
+
+<!-- more -->
 
 Sometimes he would even bring her with on his adventures to the Library! or to class. One time she got to go to a LAN party and met up with a bunch of really spec'd out computers. She felt a bit self-conscious, but she knew that Danny loved her anyway. She tried not to think about those computers very often. They didn't even have to say anything, just seeing their response times was enough for her to feel inadequate.
 

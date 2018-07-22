@@ -1,13 +1,14 @@
 ---
 title: The victor
 layout: post
-category:
-  - Maurice
-  - Story
+category: Story
+tags: [ Maurice ]
 ---
 The machine stopped spinning, and the notes that had covered the walls were gone. So was Maurice.
 
 He stepped out of the machine and into a new life.
+
+<!-- more -->
 
 He hadn't gone as far as he had hoped, the wrench that Maurice threw at him had distracted him from his adjustments. He had arrived in the late 1800s.
 

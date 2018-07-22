@@ -1,13 +1,14 @@
 ---
 title: Finishing the machine
 layout: post
-category:
-  - Maurice
-  - Story
+category: Story
+tags: [ Maurice ]
 ---
 After the curse lifted, the wedding ended, and life had settled into a new normal, Maurice's thoughts returned to his time.
 
 He remembered a tour he took once of a castle dungeon--swept clean as part of an exhibit, and the only remaining portions of the castle he how inhabited.
+
+<!-- more -->
 
 With the help of Cogsworth and a few of the other staff, he moved his time machine to the dungeon and began his immersive work of restoring his machine. The resources of a castle sped his timeline significantly, and before his daughter had returned from her honeymoon, it was ready.
 

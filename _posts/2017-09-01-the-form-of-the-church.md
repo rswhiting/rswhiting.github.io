@@ -1,12 +1,13 @@
 ---
 title: The form of the Church
 layout: post
-category:
-  - Spiritual
+category: Spiritual
 ---
 What should the Church look like?
 
 It's a question that I've wrestled with for as long as I read the Bible--which has been a long long time. I probably started reading the Bible on my own when I was in elementary school, not long after I learned to read.
+
+<!-- more -->
 
 In high school, I started having more serious thoughts about my future and my faith, and I was very torn between joining the ministry as a pastor in the American church, joining the engineering community and being a witness to my neighbors and coworkers, or becoming a monk in complete isolation.
 

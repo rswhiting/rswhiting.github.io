@@ -1,13 +1,14 @@
 ---
 title: The known story
 layout: post
-category:
-  - Maurice
-  - Story
+category: Story
+tags: [ Maurice ]
 ---
 Scattered here are the pieces of the story of Belle and Prince Adam. If you've read this far, you likely know it:
 
 Prince Adam captured Maurice, who stuck through the castle grounds to find a way to power his machine. Belle traded herself as prisoner in her father's place, but in time fell in love with her captor.
+
+<!-- more -->
 
 Gaston rallied the townsfolk to rescue her, and he failed--falling from the bulwark before he could use the potion given to him by the mysterious woman, Roux.
 

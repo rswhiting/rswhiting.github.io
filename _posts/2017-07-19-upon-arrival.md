@@ -1,11 +1,12 @@
 ---
 title: Upon arrival
 layout: post
-category:
-  - Maurice
-  - Story
+category: Story
+tags: [ Maurice ]
 ---
 The time machine was a masterpiece of curved tubes, pistons, and gauges. Every piece was necessary and beautiful. Dr. Moreau did not slack in his responsibilities to science. The room was covered in diagrams, calculations, estimations, and several scale models of the time machine.
+
+<!-- more -->
 
 He checked the gauges and grinned. His machine had drained power from the city for the last two weeks while he finished preparations, and now they read full. It was time.
 

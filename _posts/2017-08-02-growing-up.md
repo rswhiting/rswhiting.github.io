@@ -1,11 +1,12 @@
 ---
 title: Growing up
 layout: post
-category:
-  - Maurice
-  - Story
+category: Story
+tags: [ Maurice ]
 ---
 Maurice had no time to work on his time machine. He had assumed that he was too old for a genuine relationship, let alone to become a father. He knew next to nothing about taking care of a baby, and no one in the town wanted anything to do with him. So he turned to books.
+
+<!-- more -->
 
 The bookkeeper and his wife didn't have any books about caring for and raising a baby, but they took pity on Maurice and over the next year, they became good friends. She taught him how to change a diaper and soothe the crying baby.
 

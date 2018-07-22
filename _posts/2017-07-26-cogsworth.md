@@ -1,11 +1,12 @@
 ---
 title: Cogsworth
 layout: post
-category:
-  - Maurice
-  - Story
+category: Story
+tags: [ Maurice ]
 ---
 It was Cogsworth who found the king and queen's bodies. The other castle servants had given up after a few days search. Most believed that they had simply run away to live a better life somewhere else, but Cogsworth knew them. They were like parents to him, and when they had a son of their own, they still spared moments here and there to greet him and see how he fared.
+
+<!-- more -->
 
 He found them washed up on the riverbank miles from the castle. They still had on their royal clothes and rings--so it wasn't bandits. They were as whole as a few days in a river would allow--so it wasn't wolves. In the end, the consensus was that they tried to ford the river where it was too high and got swept away.
 
