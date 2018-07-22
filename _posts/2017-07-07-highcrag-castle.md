@@ -1,11 +1,12 @@
 ---
 title: Highcrag castle
 layout: post
-category:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [Danny Rocket, FixMe]
 ---
 It didn't take them long to discover that the big red x indicated where they were on the map. Because they had no idea where they were, they just wandered roughly West for a while looking for landmarks that would help them get a bearing on their new found map.
+
+<!-- more -->
 
 Instead, they finally recognized that the red x wasn't always in the same place and always near the notable landmarks that they came across. Ok, so they didn't figure it out very fast. It took them a whole day. An entire day.
 

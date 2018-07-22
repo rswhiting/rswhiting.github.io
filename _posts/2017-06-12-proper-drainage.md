@@ -1,13 +1,14 @@
 ---
 title: Proper drainage
 layout: post
-category:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [Danny Rocket, FixMe]
 ---
 > Sorry, I really thought that they'd get to the fighting part last time, so the title is a little missleading. 
 
 Everyone on the island looked around. Candy did not stand among them.
+
+<!-- more -->
 
 The floor began to rumble, and the expression on the troll's face read like a children's book: simplistic surprise. He took a few unsteady steps backwards as the rumbling escalated to an earthquake.
 

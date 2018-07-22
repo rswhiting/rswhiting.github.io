@@ -1,11 +1,12 @@
 ---
 title: The drain troll
 layout: post
-category:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [Danny Rocket, FixMe]
 ---
 Danny, Jenny, Benny, Jimmy, Candy, and a wave of soapy water splashed into a large cavern. The murky water only came up to their knees, but it was certainly disgusting. Greenish-brown sludge foam covered most of the surface, except where the new soapy water arrived from a hole in the cavern ceiling--through which our adventurers unceremoniously arrived.
+
+<!-- more -->
 
 In the middle of the cavern, there appeared to be a small island and a bench with a log beside it. Without saying a word, they looked at each other and started slogging through the horribly gross water toward the island.
 

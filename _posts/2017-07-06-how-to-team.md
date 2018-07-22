@@ -1,8 +1,8 @@
 ---
 title: How to Team
 layout: post
-category:
-  - Software
+category: Software
+tags: [ Agile ]
 ---
 I became a team lead in a software company about a year ago, and after things settled down a little, I realized that I didn't know much about leading a team. I only had the experience from a few teams at his particular company, and I wanted to do the best I could.
 

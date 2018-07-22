@@ -1,13 +1,14 @@
 ---
 title: The map of darkness
 layout: post
-category:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [Danny Rocket, FixMe]
 ---
 Candy didn't return to the group, and after a day of searching, the group decided that she was probably in the pipes somewhere or back in the arena.
 
 The troll--named Nobody--joined them in their search for Candy. He was convinced that she was actually made of candy, and often made the rest of the group uncomfortable when he made comments about eating or licking Candy when they found her. Perhaps it was best that she didn't return just yet.
+
+<!-- more -->
 
 Fortunately for the group, they had another person in the group whose name ended in a Y.
 

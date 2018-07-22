@@ -1,9 +1,8 @@
 ---
 title: Dragon slaying
 layout: post
-category:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [ Danny Rocket, FixMe ]
 ---
 Danny thought back. It made way more sense now. Dragons don't blow cotton candy balls of icy death, and lightning certainly doesn't crawl along like water down a driveway. How did he do it though? Could he do it again?
 

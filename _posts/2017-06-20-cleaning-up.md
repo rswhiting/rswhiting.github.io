@@ -1,13 +1,14 @@
 ---
 title: Cleaning up
 layout: post
-category:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [Danny Rocket, FixMe]
 ---
 Candy didn't care much for the dry world. All that dehydrated, crackling, windy stuff that kept everyone so preoccupied just didn't hold her attention.
 
 After the first few chapters, you probably forgot she wasn't even human. She looked human enough, but she didn't grow up above water. She grew up in the mountain streams of central Idaho.
+
+<!-- more -->
 
 She spent her summers playing tricks on deer and elk, swimming with the wild trout, and smoothing out rocks to make beautiful babbling streams that sang songs to the discerning ear. She spent her winters shaping the ice to make sure the trout could make it through, hollowing out little holes for them to get respit from their long journeys.
 

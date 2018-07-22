@@ -1,11 +1,12 @@
 ---
 title: Building a kegerator
 layout: post
-category:
-  - Hobbies
-  - Project
+category: Project
+tags: [Homebrew, FixMe]
 ---
 My experience with building a kegerator probably isn't any different from any other kegerator you'll find out there in internet land.
+
+<!-- more -->
 
 I started with a functional old refrigerator from a free craigslist find. The plastic was broken and deteriorating--it was sold as a good "garden refrigerator."
 

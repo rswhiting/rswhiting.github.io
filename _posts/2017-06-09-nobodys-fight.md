@@ -1,11 +1,12 @@
 ---
-title: 'Nobody's fight'
+title: "Nobody's fight"
 layout: post
-category:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [Danny Rocket, FixMe]
 ---
 When the troll stood up and bellowed his foul breath at the group, they all let go of the grate and took a step or three away from the angry, semi-camouflaged troll. Except for Benny, he kept standing there picking something out of the fur on his belly.
+
+<!-- more -->
 
 The troll took a step forward and leaned forward at them. It was either glaring or or squinting. As a side note, it is very difficult to understand troll facial expressions because of all the stiff surfaces on a troll face. For example, a troll may look chronically furious if their eyebrows are made of gnarled sticks--granted, over time they become chronically furious because nearly everyone lashes out at a giant troll that sheds camouflage just feet from you. It makes even the bravest of adventurers feel stupid--which tends to push people to lash out with adrenaline-packed embarrassment.
 

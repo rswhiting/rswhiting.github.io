@@ -1,11 +1,12 @@
 ---
 title: Retrieving the sword
 layout: post
-category:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [Danny Rocket, FixMe]
 ---
 Jenny sat in her studio appartment on the third floor well above a local eatery in the heart of Boise. Her black cat rubbed up against her leg as she took notes on her laptop--her eyes stuck fast to the book next to her on the sofa.
+
+<!-- more -->
 
 It's amazing the things found in books. Exciting things, mysterious things, distracting things, and occasionally, the very thing you need at the time when you need it. Jenny had found such a thing, but let us not disturb her for now. First some backstory, because really, every story ever written is a fantastic ending with some great backstory.
 

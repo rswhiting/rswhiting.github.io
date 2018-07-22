@@ -1,11 +1,12 @@
 ---
 title: The janitor
 layout: post
-category:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [Danny Rocket, FixMe]
 ---
 Once Danny had the key, story arcs began to fall into place. A talking mailbox gave him directions to an old abandoned house in the foothills, and he gathered his team to road-trip once more.
+
+<!-- more -->
 
 As they drove, Danny recounted the story of finding the key in the Tolkien inspired dream, Benny told a story about finding a tiny square river filled with fish--and how he spent an afternoon sitting in it and eating them as they swam by, Jimmy explained a couple spells that he had figured out, and Candy occasionally popped her gum but never seemed to look up from her phone.
 

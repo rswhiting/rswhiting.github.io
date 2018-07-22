@@ -1,11 +1,12 @@
 ---
 title: A word from the writer
 layout: post
-category:
-  - Danny Rocket
-  - Story
+category: Story
+tags: [Danny Rocket, FixMe]
 ---
 A middle aged man in a bowler hat sauntered down a tree shaded path. The wind blew lightly through the autumn leaves, scattering a few to the still green grass. In time, he sat at a bench facing the path and, sitting with perfect posture, rested his hands on his walking cane.
+
+<!-- more -->
 
 Staring toward the river across from him, he began to speak, "I know you must be upset, and I understand where you're coming from. I was a little upset too. For a little bit there, I thought I was about to recreate the Tri-Wizard tournament. It would have been fantastic too--you would have loved it: roaring fans, near deaths, some cheating and overcoming, and in the end the hero wins the prize."
 

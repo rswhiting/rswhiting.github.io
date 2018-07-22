@@ -1,13 +1,14 @@
 ---
 title: Endmur the writer
 layout: post
-category:
-  - Middle Earth
-  - Story
+category: Story
+tags: [ Middle Earth ]
 ---
 Endmur had no interest in most of his classes. Most young elves at his age relished their five year long introductory classes to the elven crafts. In his last class, he was instructed to forge a basic weapon that would be able to keep as a souvenir when the class ended.
 
 After five years of practice and work, Endmur disappointed his teacher by presenting him with a foot long letter opener. The capstone project on these classes proceeded with secrecy, otherwise Master Altema would have stopped Endmur's petty project and guided him toward a dagger or short sword.
+
+<!-- more -->
 
 As a letter opener, the handle wouldn't even fit a full hands width. It would be impossible to use it for anything else. It was a pathetic thing, and the two other classmates in his year and class laughed mirthfully at the tiny thing--especially when they compared it to their own capstone projects: a two handed sword made of a mixed alloy, and a one handed battleaxe that was as light as a feather.
 
