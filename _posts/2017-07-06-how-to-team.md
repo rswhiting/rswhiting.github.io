@@ -8,6 +8,8 @@ I became a team lead in a software company about a year ago, and after things se
 
 So I started a How to Team group.
 
+<!-- more -->
+
 The group consisted of 5 team leads from different divisions that I knew from previous teams. Most of us had worked together as devs and now they were team leads too. They wanted to know how to be good leads, and the company doesn't have any management training programs.
 
 Once a week, we'd meet together and talk about one or two topics relating to our teams:
