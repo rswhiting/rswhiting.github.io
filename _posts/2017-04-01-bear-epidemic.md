@@ -1,7 +1,7 @@
 ---
 title: Bear epidemic
 layout: post
-categories: Story
+category: Story
 tags: [Danny Rocket]
 ---
 "Do you think they're gone?" Jimmy asked as he paced the parking garage stairwell landing.

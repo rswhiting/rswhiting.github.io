@@ -1,7 +1,7 @@
 ---
 title: King of the bears
 layout: post
-categories: Story
+category: Story
 tags: [Danny Rocket]
 ---
 Still in shock, Danny sat on the bear as it lumbered through the sagebrush up and away from Boise. The once bright red blood that had covered most of his torso and head had turned to a dark, sticky substance.

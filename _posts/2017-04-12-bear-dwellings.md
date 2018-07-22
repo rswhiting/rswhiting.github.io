@@ -1,7 +1,7 @@
 ---
 title: Bear dwellings
 layout: post
-categories: Story
+category: Story
 tags: [Danny Rocket]
 ---
 After the bears gathered their wounded, buried their dead, and cursed the mice, they all set off through the mountains again.

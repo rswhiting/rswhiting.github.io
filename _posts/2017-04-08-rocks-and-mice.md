@@ -1,7 +1,7 @@
 ---
 title: Rocks and mice
 layout: post
-categories: Story
+category: Story
 tags: [Danny Rocket]
 ---
 "Mice!" the bear roared, skidding to a stop before the humanoid rock heap.

@@ -1,7 +1,7 @@
 ---
 title: Saving the laptop
 layout: post
-categories: Story
+category: Story
 tags: [Danny Rocket]
 ---
 The stone golems swatted at the bears, which put the flight from the bears earlier that day into a little perspective. He looked from golem to golem trying to pick out the tiny mouse on each shoulder.

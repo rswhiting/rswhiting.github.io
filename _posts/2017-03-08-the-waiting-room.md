@@ -1,7 +1,7 @@
 ---
 title: The waiting room
 layout: post
-categories: Story
+category: Story
 tags: [Danny Rocket]
 ---
 Danny sat in a waiting room.

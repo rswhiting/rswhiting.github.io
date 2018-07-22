@@ -1,7 +1,7 @@
 ---
 title: The sidekick
 layout: post
-categories: Story
+category: Story
 tags: [Danny Rocket]
 ---
 When Danny finally got home, the dog greeted him by lifting her head and huffing once, then on recognizing him laid her head back down with a dumb smile and one and a half tail wags. Danny walked over and scratched behind the dog’s ears.
