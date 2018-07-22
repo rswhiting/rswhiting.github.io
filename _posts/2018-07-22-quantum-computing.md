@@ -42,5 +42,5 @@ Now I'm going to keep reading and [learning](https://medium.com/@MaryamAshoori/d
 
 It's a new and exciting field, and I'm realy excited to have access to it so early in its development.
 
-![Quantum Entanglement](/public/img/entanglement.jpg)
+![Quantum Entanglement](/public/images/entanglement.jpg)
 > Credit: [Mark Garlick Getty Images](https://www.gettyimages.com/license/623682717)
