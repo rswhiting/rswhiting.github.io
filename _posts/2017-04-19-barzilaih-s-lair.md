@@ -2,7 +2,7 @@
 title: "Barzilaih's lair"
 layout: post
 category: Story
-tags: [Danny Rocket, FixMe]
+tags: [Danny Rocket]
 ---
 "You're computer is super old. As soon as you get a real job, you should replace it." Jimmy pointed a finger at the laptop, "It's struggling to get Minecraft open! Barzilaih's going to beat the challenges, become High Wizard, and die of old age before this thing starts."
 
@@ -23,3 +23,7 @@ On his minimap, Danny saw some lights that seemed to outline a town. Those light
 He jumped on top of the leaves and dashed across the tree wall, then down into the town.
 
 The first building he saw had a sign: Barzilaih's Tavern. So he went inside.
+
+---
+
+ [Loading minecraft](/story/2017/04/18/loading-minecraft) <= [Danny Rocket](/danny-rocket) =>  [Meeting Barzilaih](/story/2017/04/21/meeting-barzilaih)

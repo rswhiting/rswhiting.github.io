@@ -51,3 +51,7 @@ But at least now they had to walk.
 And they found the sword.
 
 And their laptop.
+
+---
+
+ [Rocks and mice](/story/2017/04/08/rocks-and-mice)  <= [Danny Rocket](/danny-rocket) =>  [Bear dwellings](/story/2017/04/12/bear-dwellings)

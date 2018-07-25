@@ -21,3 +21,7 @@ Danny bowed low, followed by Jimmy.
 Danny said, "I didn't expect to actually meet you. The voice said we never would."
 
 Buckets. Forgot that.
+
+---
+
+ [Saving the laptop](/story/2017/04/11/saving-the-laptop)  <= [Danny Rocket](/danny-rocket) =>  [Now about the mice](/story/2017/04/12/now-about-the-mice)

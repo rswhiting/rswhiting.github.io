@@ -2,7 +2,7 @@
 title: Glowing sword
 layout: post
 category: Story
-tags: [Danny Rocket, FixMe]
+tags: [Danny Rocket]
 ---
 Benny led the retreat by large margin, followed by Candy (who could run surprisingly fast), then Danny and Jimmy, but Danny glanced back.
 
@@ -55,3 +55,7 @@ Danny looked back at her, "Sorry, you didn't seem to respond to the yelling, so 
 "What? No." Danny paused, "probably not?"
 
 Jenny grinned, "Let's go kill a dragon."
+
+---
+
+ [A dragon](/story/2017/04/26/a-dragon)  <= [Danny Rocket](/danny-rocket) =>  [Dragon slaying](/story/2017/05/01/dragon-slaying)

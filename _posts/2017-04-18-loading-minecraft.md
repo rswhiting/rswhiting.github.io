@@ -2,7 +2,7 @@
 title: Loading minecraft
 layout: post
 category: Story
-tags: [Danny Rocket, FixMe]
+tags: [Danny Rocket]
 ---
 Back in Boise, the whole group crowded around Danny's desk. Loading with the familiar Mojang red-on-white logo, the laptop purred with excitement.
 
@@ -15,3 +15,7 @@ Once the servers send back a message confirming that Danny was allowed to play, 
 She almost forgot what she was doing because she worked so hard to write and read all the messages. Not only did she have to read them, she had to organize them and put al the maps in place, fix all the problems using the instructions she received, and make sure to write back to confirm that she got all the messages in the right order. She actually started to sweat with exertion. She kicked on a desk fan to high.
 
 After the messages slowed to a trickle, then stopped, she opened the minecraft start menu and put it on the screen. The hard work always paid off to see Danny's smile.
+
+---
+
+ [Change in plans](/story/2017/04/18/change-in-plans)  <= [Danny Rocket](/danny-rocket) =>  [Barzilaih's Lair](/story/2017/04/19/barzilaih-s-lair)

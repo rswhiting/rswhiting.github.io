@@ -2,7 +2,7 @@
 title: Dragon slaying
 layout: post
 category: Story
-tags: [ Danny Rocket, FixMe ]
+tags: [ Danny Rocket ]
 ---
 Danny thought back. It made way more sense now. Dragons don't blow cotton candy balls of icy death, and lightning certainly doesn't crawl along like water down a driveway. How did he do it though? Could he do it again?
 
@@ -43,3 +43,7 @@ In the midst of the steam, near where the head of a dragon rested, a figure stoo
 The stream had reached tens of thousands in the few minutes it took.
 
 Candy popped her gum.
+
+---
+
+ [Glowing sword](/story/2017/04/27/glowing-sword)  <= [Danny Rocket](/danny-rocket) =>  [The welcome fairy](/story/2017/05/10/the-welcome-fairy)

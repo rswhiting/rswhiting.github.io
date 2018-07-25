@@ -2,7 +2,7 @@
 title: The welcome fairy
 layout: post
 category: Story
-tags: [Danny Rocket, FixMe]
+tags: [Danny Rocket]
 ---
 Danny stood in the middle of a dense fog that smelled very strongly of garlic. His head spun, and he tried to avoid breathing in the evaporated dragon as much as possible. Part of him wanted to walk away, but his legs wouldn't react to his brain.
 
@@ -29,3 +29,7 @@ The fairy looked at him, "Well, I don't know, maybe you should read the brochure
 "Test dragons?" Danny asked. The fairly sniffed, twirled her wand and in a shower of sparks turned back into a butterfly. The butterfly flew up and away.
 
 Danny watched as the butterfly flew to the treetops and out over the open field. A seagull tried to make a pass at it, but instead of getting a bite to eat, it burst into flames. The dragon mist had dissipated, and he could see his friends on the other side of the field running toward him.
+
+---
+
+ [Dragon slaying](/story/2017/05/01/dragon-slaying)  <= [Danny Rocket](/danny-rocket) =>  [The second challenge](/story/2017/05/30/the-second-challenge)

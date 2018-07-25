@@ -41,3 +41,7 @@ The next moment Muffin was beaming, "Yes! They're showing up all over! I can tak
 "And what are they exactly?" Danny asked.
 
 "I don't know for sure, but they're fun to play with. Everything you throw in turns to to black ash and blows away!" Muffin was practically giddy, "They're like holes in reality! And they're growing!"
+
+---
+
+ [Where did Danny go?](/story/2017/07/27/where-did-danny-go)  <= [Danny Rocket](/danny-rocket) =>  [Holes in the map](/story/2018/03/25/holes-in-the-map)

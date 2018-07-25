@@ -61,3 +61,7 @@ As they sat around the fire pit in the castle courtyard staring despairingly int
 "Meet me at the the library of Austin, Texas. -{seer person from earlier in the story}"
 
 Danny looked up at Benny, Jimmy, and Jenny and said, "Something is seriously wrong."
+
+---
+
+ [Muffin the landlord](/story/2017/11/23/muffin-the-landlord)  <= [Danny Rocket](/danny-rocket) => 

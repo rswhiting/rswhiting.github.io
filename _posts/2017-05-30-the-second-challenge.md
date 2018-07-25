@@ -2,7 +2,7 @@
 title: The second challenge
 layout: post
 category: Story
-tags: [Danny Rocket, FixMe]
+tags: [Danny Rocket]
 ---
 A couple weeks went by, and the unlikely group of wizards spent most of their time at the local Library! reading up on ancient lore. They had absolutely no idea how to find the key or the door or whatever it was that they were looking for.
 
@@ -33,3 +33,8 @@ Remembering the sage words of Gandalf, he dropped the key into his hand and imme
 "Sorry," Danny tried to look more ashamed than in pain. He'd probably be kept for questioning if they saw the burned hand. He quickly gathered his notes, and key--which had landed on and scorched his notebooks.
 
 He got a cup of ice nearby and walked quickly home, He didn't know what the key was for, but now, finally, he was making progress again.
+
+---
+
+ [The welcome fairy](/story/2017/05/10/the-welcome-fairy)  <= [Danny Rocket](/danny-rocket) =>  [Retrieving the sword](/story/2017/05/31/retrieving-the-sword)
+ 

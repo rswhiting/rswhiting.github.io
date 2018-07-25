@@ -2,7 +2,7 @@
 title: Now about the mice
 layout: post
 category: Story
-tags: [Danny Rocket, FixMe]
+tags: [Danny Rocket]
 ---
 Now, I realize that the interactions with the mice turned out to be very short lived, and pending some bright flash of creativity to tie them back into the story and allow some major monologues, their backstory won't ever be told in earnest. So we'll take a small break from our "hero" and focus on the tiny, powerful, robed mice.
 
@@ -19,3 +19,7 @@ More importantly, they began organizing and infiltrating wizard schools, researc
 You see, I didn't want them to become too powerful. They're mice after all. So when they figured out who I am, they contacted me. First they tried to negotiate, then bribe, then threaten. Eventually, they decided that they want nothing to do with "The Voice."
 
 So now they try to avoid primary plot arcs as much as possible.
+
+---
+
+ [Bear dwellings](/story/2017/04/12/bear-dwellings)  <= [Danny Rocket](/danny-rocket) =>  [Feasting with bears](/story/2017/04/13/feasting-with-bears)

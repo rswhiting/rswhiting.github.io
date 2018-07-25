@@ -2,7 +2,7 @@
 title: Proper drainage
 layout: post
 category: Story
-tags: [Danny Rocket, FixMe]
+tags: [Danny Rocket]
 ---
 > Sorry, I really thought that they'd get to the fighting part last time, so the title is a little missleading. 
 
@@ -41,3 +41,7 @@ Jimmy replied, "Not a chance, if he wakes up with my lips on his face, I'll neve
 "If I kiss him, does he become a princess?" Was that Benny's voice? He spoke so infrequently. "I'm gonna try it."
 
 Danny opened his eyes and sat up, shielding his mouth.
+
+---
+
+ [Nobody's fight](/story/2017/06/09/nobodys-fight)  <= [Danny Rocket](/danny-rocket) =>  [Cleaning up](/story/2017/06/20/cleaning-up)

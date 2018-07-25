@@ -1,7 +1,7 @@
 ---
 title: How do you identify a human leader?
 layout: post
-category: Response
+category: Blog
 tags: [ A Serious Rob]
 ---
 I've found a lot of people who know are experts in their fields and have a certain level of charisma, but then when they move into a leadership position, it's apparent that it's not their strong suit.

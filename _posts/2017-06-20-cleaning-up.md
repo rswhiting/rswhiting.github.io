@@ -2,7 +2,7 @@
 title: Cleaning up
 layout: post
 category: Story
-tags: [Danny Rocket, FixMe]
+tags: [Danny Rocket]
 ---
 Candy didn't care much for the dry world. All that dehydrated, crackling, windy stuff that kept everyone so preoccupied just didn't hold her attention.
 
@@ -29,3 +29,7 @@ She pulled an ornament off one of her bracelets and crunched it in her teeth. Po
 Black tendrills threatened her very mind while she shook and pressed in the darkness, until it finally snapped. Then it went down the drain with everything else. She was still wreathed in power when the drain sucked down to its rightful place at the bottom of the cavern. For a moment, she thought she saw Danny, standing at eye level before the water covered the drain, and everyone--including Candy, drained through the pipes and out into a streamhead.
 
 Exhausted, she drifted in the creek, at peace.
+
+---
+
+ [Proper drainage](/story/2017/06/12/proper-drainage)  <= [Danny Rocket](/danny-rocket) =>  [The map of darkness](/story/2017/07/05/the-map-of-darkness)

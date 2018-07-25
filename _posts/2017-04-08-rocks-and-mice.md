@@ -13,3 +13,7 @@ Danny hit the ground hard when the bear he rode reared up to block the towering 
 He got up awkwardly (his hands still bound) and ran through the sagebrush toward the pack-bears, who appeared to be forming a two column line. Danny glanced back, he counted 7 golems, each surrounded by 3 or 4 bears.
 
 He did a double-take and tripped right into a sagebrush. When he recovered, he rubbed his eyes and checked again. Atop the shoulder of each golem, stood a mouse wearing colorful flowing robes, arms outstretched.
+
+---
+
+ [King of the bears](/story/2017/04/06/king-of-the-bears)  <= [Danny Rocket](/danny-rocket) =>  [Saving the laptop](/story/2017/04/11/saving-the-laptop)

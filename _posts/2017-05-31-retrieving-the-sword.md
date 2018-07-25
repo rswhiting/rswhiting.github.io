@@ -2,7 +2,7 @@
 title: Retrieving the sword
 layout: post
 category: Story
-tags: [Danny Rocket, FixMe]
+tags: [Danny Rocket]
 ---
 Jenny sat in her studio appartment on the third floor well above a local eatery in the heart of Boise. Her black cat rubbed up against her leg as she took notes on her laptop--her eyes stuck fast to the book next to her on the sofa.
 
@@ -31,3 +31,7 @@ Breathing hard, she slowly pulled the sword from the computer screen and set it 
 She sat grinning, and staring into space.
 
 Now she could win this thing for real.
+
+---
+
+ [The second challenge](/story/2017/05/30/the-second-challenge) <= [Danny Rocket](/danny-rocket) =>  [The janitor](/story/2017/06/06/the-janitor)

@@ -2,7 +2,7 @@
 title: Change in plans
 layout: post
 category: Story
-tags: [Danny Rocket, FixMe]
+tags: [Danny Rocket]
 ---
 "I'm going up against a minecraft character?" Danny though he'd heard the limit of rediculousness before, but this topped the bears, mice, and amazon-delivered sword.
 
@@ -23,3 +23,7 @@ She smiled, "Now that's more like it." She pointed behind her and up at the pegb
 _How did I not see that before._
 
 He thanked her, took the paper, and convinced the whole group to head back to Idaho due to the most recent change of plans.
+
+---
+
+ [Meeting with destiny](/story/2017/04/17/meeting-with-destiny)  <= [Danny Rocket](/danny-rocket) =>  [Loading minecraft](/story/2017/04/18/loading-minecraft)

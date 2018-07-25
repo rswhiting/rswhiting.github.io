@@ -2,7 +2,7 @@
 title: Meeting with Destiny
 layout: post
 category: Story
-tags: [Danny Rocket, FixMe]
+tags: [Danny Rocket]
 ---
 After a lengthy discussion about how to find Barzilaih, they settled back on the original plan of searching out Destiny. You may have forgotten all about Destiny. She already played an important role in this story. She sent the sword to Candy to give to Danny. Other than the mice and Barzilaih, she's the only character we haven't really covered who might actually have some answers.
 
@@ -35,3 +35,7 @@ She hopped back into the booth and gestured for Danny to join her. "Why are you 
 "I don't know where else to go, I need to find Barzilaih and team up if the Northern Kingdom has a chance at this election thing."
 
 "You seek answers, but I don't know them. I'm Destiny, not some kind of oracle," they sat in silence for a little while, "Oh alright. Barzilaih isn't the name of a person, it's a minecraft username. His character was chosen to be a wizard, the High Wizard candidate selector was created long before gaming and the internet, so it gets confused. Nevertheless, it is still binding."
+
+---
+
+ [Gathering the team](/story/2017/04/15/gathering-the-team)  <= [Danny Rocket](/danny-rocket) =>  [Change in plans](/story/2017/04/18/change-in-plans)

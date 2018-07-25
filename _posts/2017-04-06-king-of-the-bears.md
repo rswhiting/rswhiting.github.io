@@ -35,3 +35,7 @@ _Woah, is that my new title? Sounds kinda sarcastic though_
 But he never did meet Beorn. The rocks came together in front of the bear, forming a stone golem twice the size of the already impressive bear.
 
 The bears weren't the only ones who wanted to meet the new High Wizard.
+
+---
+
+ [Bear Epidemic](/story/2017/04/01/bear-epidemic)  <= [Danny Rocket](/danny-rocket) =>  [Rocks and mice](/story/2017/04/08/rocks-and-mice)

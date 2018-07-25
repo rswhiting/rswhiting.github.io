@@ -2,7 +2,7 @@
 title: A word from the writer
 layout: post
 category: Story
-tags: [Danny Rocket, FixMe]
+tags: [Danny Rocket]
 ---
 A middle aged man in a bowler hat sauntered down a tree shaded path. The wind blew lightly through the autumn leaves, scattering a few to the still green grass. In time, he sat at a bench facing the path and, sitting with perfect posture, rested his hands on his walking cane.
 
@@ -27,3 +27,7 @@ He closed his eyes again and shook his head, crushing the scorpion/butterfly int
 "You see, this world has begun to fall into some kind of corruption."
 
 "And I need a hero."
+
+---
+
+ [The janitor](/story/2017/06/06/the-janitor) <= [Danny Rocket](/danny-rocket) =>  [The drain troll](/story/2017/06/07/the-drain-troll)

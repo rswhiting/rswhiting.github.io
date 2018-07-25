@@ -2,7 +2,7 @@
 title: "Nobody's fight"
 layout: post
 category: Story
-tags: [Danny Rocket, FixMe]
+tags: [Danny Rocket]
 ---
 When the troll stood up and bellowed his foul breath at the group, they all let go of the grate and took a step or three away from the angry, semi-camouflaged troll. Except for Benny, he kept standing there picking something out of the fur on his belly.
 
@@ -39,3 +39,7 @@ Jimmy glared at her, "He said no questions."
 "No, really," she pointed around the island, "where is Candy?"
 
 The troll grinned. _Watery one is candy._
+
+---
+
+ [The drain troll](/story/2017/06/07/the-drain-troll)  <= [Danny Rocket](/danny-rocket) =>  [Proper drainage](/story/2017/06/12/proper-drainage)

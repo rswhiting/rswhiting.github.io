@@ -2,7 +2,7 @@
 title: Feasting with bears
 layout: post
 category: Story
-tags: [Danny Rocket, FixMe]
+tags: [Danny Rocket]
 ---
 After the introductions, Beorn invited Danny and Jimmy to eat with him while they discussed important matters. They all sat at a large table with at least ten other bears and filled their plates with all kinds of berries and nuts.
 
@@ -43,3 +43,7 @@ Beorn recaptured his composure and continued, "Because the High Wizard represent
 "It is generally understood that kingdoms, species, governing bodies, and individuals who help the High Wizard will be repaid with favors, land, power, etcetera. The artifact's delivery is proof that you are one of the candidates. So I take it that he," Beorn pointed at Jimmy (who had built a tower of various nuts), "is one of your understudy aids."
 
 Jimmy started a coughing fit through a full mouth of cranberries.
+
+---
+
+ [Now about the mice](/story/2017/04/12/now-about-the-mice) <= [Danny Rocket](/danny-rocket) =>  [High wizard registration](/story/2017/04/14/high-wizard-registration)

@@ -2,7 +2,7 @@
 title: Meeting Barzilaih
 layout: post
 category: Story
-tags: [Danny Rocket, FixMe]
+tags: [Danny Rocket]
 ---
 Candy lay on Danny's bed chewing bubble gum and pouring her energies into her phone--likely Facebook, but potentially Instagram or SnapChat. Yes, I can put current social trends directly into the story because I have little to no concern for saving this story from outdated references. This is practically writer suicide, watch me care.
 
@@ -69,3 +69,7 @@ Candy sipped her coffee and texted one handed.
 Benny scraped paint off the bell tower.
 
 The dog barked.
+
+---
+
+ [Barzilaih's Lair](/story/2017/04/19/barzilaih-s-lair)  <= [Danny Rocket](/danny-rocket) =>  [A dragon](/story/2017/04/26/a-dragon)

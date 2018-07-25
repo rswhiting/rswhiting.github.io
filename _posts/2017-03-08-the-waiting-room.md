@@ -43,3 +43,7 @@ No, now that I know where I am, I don’t want to lose track of my train of thou
 Danny drove through downtown and made his way to the park. From the parking lot he could see the bench by the bridge from earlier. He ran to the picnic table where the box lay open, sword still inside. Bundling the sword, cloth, and box together, he walked down to the river.
 
 “Candy!” He still had questions. “Candy, where are you?” He stood on the shore yelling sweet nothing at the river as it drifted by. He looked very much like a crazy person, which is why a concerned citizen called the police and Danny spent an evening at the station convincing officer Perry that he had full control of his mind and that the sword was only ornamental.
+
+---
+
+ [The sword](/story/2017/03/04/the-sword)  <= [Danny Rocket](/danny-rocket) =>  [The sidekick](/story/2017/03/17/the-sidekick)

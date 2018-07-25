@@ -2,7 +2,7 @@
 title: The janitor
 layout: post
 category: Story
-tags: [Danny Rocket, FixMe]
+tags: [Danny Rocket]
 ---
 Once Danny had the key, story arcs began to fall into place. A talking mailbox gave him directions to an old abandoned house in the foothills, and he gathered his team to road-trip once more.
 
@@ -49,3 +49,7 @@ Jenny took a step forward and spoke, "We're here to enter in the Wizard Tourname
 "Well, you'll have a hard time at that. The tournament's been over for 4 days, and it lasted for two weeks before that. The High Wizard's already been on a world tour by now." The janitor, Allen, scratched his chin. "And you can't be in here after hours."
 
 With that, the janitor, Allen, pointed his mop at them, and they were sucked into a whirlpool of soapy water.
+
+---
+
+ [Retrieving the sword](/story/2017/05/31/retrieving-the-sword)  <= [Danny Rocket](/danny-rocket) =>  [A word from the writer](/story/2017/06/07/a-word-from-the-writer)

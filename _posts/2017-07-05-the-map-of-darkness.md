@@ -2,7 +2,7 @@
 title: The map of darkness
 layout: post
 category: Story
-tags: [Danny Rocket, FixMe]
+tags: [Danny Rocket]
 ---
 Candy didn't return to the group, and after a day of searching, the group decided that she was probably in the pipes somewhere or back in the arena.
 
@@ -29,3 +29,7 @@ He reached in and pulled out a single piece of parchment: it was a treasure map.
 "Now, if we could only find out where we are." Danny said as he studied it.
 
 _Dun dun dun!_
+
+---
+
+ [Cleaning up](/story/2017/06/20/cleaning-up)  <= [Danny Rocket](/danny-rocket) =>  [Highcrag castle](/story/2017/07/07/highcrag-castle)

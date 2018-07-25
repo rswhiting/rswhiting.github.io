@@ -2,7 +2,7 @@
 title: High wizard registration
 layout: post
 category: Story
-tags: [Danny Rocket, FixMe]
+tags: [Danny Rocket]
 ---
 Danny sat dumbfounded for a little while, then said, "Let me see if I understand what's happening. You're telling me that I'm a contender for the role of High Wizard. I'm the team captain for the Northern Kingdom team, and the mice and bears are trying to help me by kidnapping me to help me win then gain my favor? Sounds really messed up. And who is Barzilaih?"
 
@@ -23,3 +23,7 @@ Jimmy piped up, "I might not be a wizard, but I do have an idea. What if we join
 "Two teams in the same region? That's perposterous," the bear cocked an eyebrow, "but not technically against the rules."
 
 So Danny registered.
+
+---
+
+[Feasting with bears](/story/2017/04/13/feasting-with-bears)  <= [Danny Rocket](/danny-rocket) =>  [Gathering the team](/story/2017/04/15/gathering-the-team)

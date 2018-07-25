@@ -2,7 +2,7 @@
 title: Gathering the team
 layout: post
 category: Story
-tags: [Danny Rocket, FixMe]
+tags: [Danny Rocket]
 ---
 The next day Danny and Jimmy gathered supplies, drew up plans, and recoverd from that horrible hike up the mountain the day before. Beorn claimed that he was too busy running the kingdom of the bears to join Danny in his quest, but that one of his right hand bears had volunteered to aid Danny as a part of his team, and more importantly, represent the kingdom of bears to the potential High Wizard despite the extreme unlikelyhood.
 
@@ -23,3 +23,7 @@ Her arguments didn't really convince Danny, but all the crying and complaining e
 Side note: a lot. She could do a lot of harm.
 
 When Danny finally got home, he was exhausted. Candy, Jimmy, Benny, and Danny all collapsed on couches, beds, and floors when they arrived. Then Danny looked for Barzilaih online. Barzilaih wasn't on the internet. Not under the name Barzilaih anyway.
+
+---
+
+ [High wizard registration](/story/2017/04/14/high-wizard-registration)  <= [Danny Rocket](/danny-rocket) =>  [Meeting with destiny](/story/2017/04/17/meeting-with-destiny)

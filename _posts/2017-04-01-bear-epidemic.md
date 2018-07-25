@@ -31,3 +31,7 @@ And I'm out of time.
 "Wait, out of time for what?"
 
 At the coffee shop, it's time to go home. I'll have to pick up later. Good luck with the bear.
+
+---
+
+ [The sidekick](/story/2017/03/17/the-sidekick) <= [Danny Rocket](/danny-rocket) =>  [King of the bears](/story/2017/04/06/king-of-the-bears)

@@ -49,3 +49,7 @@ After a final glare at the ceiling, Danny sighed, picked up his chair and told h
 “So, I never got a chance to find out where this Northern Kingdom is, or who I should talk to if I do find it.”
 
 Jimmy sat on the edge of the bed staring at the sword. After a long silence that didn’t seem as awkward as you might be imagining, Jimmy said, “This voice that seems to have a lot of control over today wants me to be a sidekick to a wizard? If it wasn’t you, I’d say sign me up, but I guess the sidekick doesn’t always get to pick his wizard. So where do you suppose we’ll find this ‘Northern Kingdom,’ Canada?”
+
+---
+
+ [The waiting room](/story/2017/03/08/the-waiting-room)  <= [Danny Rocket](/danny-rocket) =>  [Bear Epidemic](/story/2017/04/01/bear-epidemic)

@@ -2,7 +2,7 @@
 title: Highcrag castle
 layout: post
 category: Story
-tags: [Danny Rocket, FixMe]
+tags: [Danny Rocket]
 ---
 It didn't take them long to discover that the big red x indicated where they were on the map. Because they had no idea where they were, they just wandered roughly West for a while looking for landmarks that would help them get a bearing on their new found map.
 
@@ -21,3 +21,7 @@ As suddenly as the forest started, it ended in a perfect line onto a manicured l
 But they'd have to discover that on their own. First, they knocked on the drawbridge and stood out of the way. They didn't know much about castle etiquette.
 
 > A whole episode with no mention of any particular member of the party!
+
+---
+
+ [The map of darkness](/story/2017/07/05/the-map-of-darkness) <= [Danny Rocket](/danny-rocket) =>  [Where did Danny go?](/story/2017/07/27/where-did-danny-go)

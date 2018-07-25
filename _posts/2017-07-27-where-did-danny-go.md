@@ -39,3 +39,7 @@ Nothing fit the data. She didn't realize her core temperature warnings until the
 _Oh no._ She thought. Then the emergency systems shut her down. No one could wake her now except Danny, and she couldn't even tell anyone that he was in Russia.
 
 But why Russia?
+
+---
+
+ [Highcrag castle](/story/2017/07/07/highcrag-castle)  <= [Danny Rocket](/danny-rocket) =>  [Muffin the landlord](/story/2017/11/23/muffin-the-landlord)
