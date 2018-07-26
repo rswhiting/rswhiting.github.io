@@ -53,6 +53,7 @@ nav:
     - { Categories: '/blog/categories/' }
     - { Tags: '/blog/tags/' }
     - { 'Danny Rocket': '/danny-rocket/' }
+    - { 'Death of Maurice': '/maurice/' }
   About:          
     - '/about/'
   Github Project: 
