@@ -21,3 +21,7 @@ It was then that he found his new purpose, and he wrote the story of Prince Adam
 The story unburdened his soul and brought him more fame than he had imagined because he wrote with such conviction.
 
 In time, he wrote more stories, tales of dragons and witches, fairies and giants, but none of them compared to his first novel: Beauty and the Beast.
+
+---
+
+ [Roux lost](/story/2017/09/07/roux-lost)  <= [Death of Maurice](/maurice) =>  [The end](/story/2017/09/09/the-end)

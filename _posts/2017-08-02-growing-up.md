@@ -15,3 +15,7 @@ Belle survived--much to the surprise of the townsfolk--and grew into a beautiful
 She didn't play with the other children. They shunned her for her lofty demeanor and crazy stories about her father's inventions or how society ought to be. She spent her time reading or sitting in the windowsill staring out across the valley humming to herself.
 
 Maurice made a living fixing things and building small inventions that he could sell in neighboring towns. His dreams of returning home never faded, but he knew when to prioritize and provide for his daughter. He couldn't forget the dream of going home, not with the little face beaming up at him with the face of his first love, Collette. Sometimes he would burst into tears just looking at Belle. He was so tired, and he missed her so much.
+
+---
+
+ [Cogsworth](/story/2017/07/26/cogsworth)  <= [Death of Maurice](/maurice) =>  [Chip](/story/2017/08/11/chip)

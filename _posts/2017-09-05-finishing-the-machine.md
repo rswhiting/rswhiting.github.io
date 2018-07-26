@@ -51,3 +51,7 @@ But it didn't smell like smoke.
 And cold.
 
 He felt Collette's lips on his.
+
+---
+
+ [The known story](/story/2017/09/04/the-known-story)  <= [Death of Maurice](/maurice) =>  [Justice](/story/2017/09/06/justice)

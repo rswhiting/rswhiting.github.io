@@ -27,3 +27,7 @@ Roux still desired Prince Adam's affections.
 Maurice still longed to see his time again.
 
 And Mrs. Potts would still see justice.
+
+---
+
+ [Gaston](/story/2017/09/01/gaston)  <= [Death of Maurice](/maurice) =>  [Finishing the machine](/story/2017/09/05/finishing-the-machine)

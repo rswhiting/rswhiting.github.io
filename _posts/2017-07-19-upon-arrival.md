@@ -35,3 +35,7 @@ Lights flashed around Dr. Moreau like sparklers, then a booming sound that compr
 Before he hit the ground, he saw two horses with wild eyes leaping backwards off an embankment. Their riders shared the look of horror in their steed's eyes. What an odd sight.
 
 Something sharp made contact with his head when the time machine did hit the ground, and Dr. Maurice Moreau's trip to the 1700s began with unconsciousness.
+
+---
+
+ [Dr Moreau](/story/2017/07/18/dr-moreau)  <= [Death of Maurice](/maurice) =>  [Collette](/story/2017/07/24/collette)

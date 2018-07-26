@@ -19,3 +19,7 @@ But Adam wanted no comfort or sympathy. He wanted to be in control. The servants
 Cogsworth did all he could for the prince, but his heart was broken too. He longed for the king and queen to return and bring the broken castle back into relative peace.
 
 His mind was elsewhere too: he respected the king and queen too much to accept their death as an accident. He knew deep down that someone had murdered them. And he would have vengeance.
+
+---
+
+ [Belle](/story/2017/07/25/belle)  <= [Death of Maurice](/maurice) =>  [Growing up](/story/2017/08/02/growing-up)
