@@ -34,20 +34,20 @@ Bang! has stood the test of time and emerged victorious. We've worn our the card
 * Dual characters: Deal out all roles and pick 2. There are a few combos that break the game, but it speeds up slow games.
 * Fused weapons: play two guns, get the combined best effects. This one can break the game, especially if you're playing dual characters.
 
-Secret Hitler
+## Secret Hitler
 
-Avalon
+## Avalon
 
-Coup
+## Coup
 
-Tortuga
+## Tortuga
 
-Pandemic
+## Pandemic
 
-7 Wonders
+## 7 Wonders
 
-Dominion
+## Dominion
 
-Citadels
+## Citadels
 
 
