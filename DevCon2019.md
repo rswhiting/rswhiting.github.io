@@ -1,6 +1,7 @@
 ---
 layout: page
 title: DevCon 2019
+alias: [devcon2019, dev-con-2019, /software/devcon]
 ---
 
 It was such a pleasure to speak at DevCon 2019 at Clearwater Analytics here in Boise! All that information is so overwhelming and awesome!
