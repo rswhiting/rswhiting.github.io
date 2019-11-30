@@ -1,5 +1,5 @@
 ---
-title: Psalm 8 Son of Mam
+title: Psalm 8 Son of Man
 layout: post
 category: Spiritual
 tags: [Son of Man]
@@ -33,7 +33,7 @@ Then in Daniel, there is a figure called the Son of Man (fully human) who has eq
 
 > I kept looking in the night visions, And behold, with the clouds of heaven One like a Son of Man was coming, And He came up to the Ancient of Days And was presented before Him. And to Him was given dominion, Glory and a kingdom, That all the peoples, nations and men of every language Might serve Him His dominion is an everlasting dominion Which will not pass away; And His kingdom is one Which will not be destroyed. Daniel 7.13+
 
-Then Jesus came along and there were a lot of options for titles: Messiah, Redeemer, Christ, Lord, Son of God, Emmanual, but Jesus defleted most titles (he didn't deny them though) and primarily referred to himself as the Son of Man.
+Then Jesus came along and there were a lot of options for titles: Messiah, Redeemer, Christ, Lord, Son of God, Emmanual, but Jesus deflected most titles (he didn't deny them though) and primarily referred to himself as the Son of Man.
 
 > "But so that you may know that the Son of Man has authority on earth to forgive sins" Mark 2.10
 

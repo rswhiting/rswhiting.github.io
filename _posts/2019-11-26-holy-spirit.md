@@ -27,7 +27,7 @@ Examples of Jesus praying to the Father.
 > "Father, if you are willing, take this cup..." Luke 22.42
 > "Father, forgive them, because they do not know what they are doing." Luke 23.34
 
-This is my favorite pray of Jesus because he prays for himself, the disciples, and for us (those who believe in Jesus through the message of the disciples). It's lenghty, but definitely read it. Notice how Jesus interacts with the Father throughout the prayer.
+This is my favorite prayer of Jesus because he prays for himself, the disciples, and for us (those who believe in Jesus through the message of the disciples). It's lenghty, but definitely read it. Notice how Jesus interacts with the Father throughout the prayer.
 > "Father, the hour has come. Glorify Your Son so that the Son may glorify You..." John 17
 
 John Piper has a [good article about this](https://www.desiringgod.org/interviews/does-it-matter-which-person-of-the-trinity-we-pray-to)
