@@ -54,4 +54,4 @@ I don't think so, not directly at least. David is observing the created order (t
 
 This verse if quoted in Hebrews, and Paul uses it to say that Jesus was put lower than the angels for a time, and that through Him, the descendants of Abraham (sons of man) are brought back into a right relationship with God (all things under his rule) with Jesus as the high priest. Hebrews 2 (read the whole chapter)
 
-Hopefully that clears things up a little.
+So, yes and no. Sorry that doesn't exactly clear things up.
