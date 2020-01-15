@@ -17,19 +17,19 @@ On Monday, you asked about John the Baptist and why there are references to him 
 
 Gabriel appeared to Zechariah in the temple. This is the second half of his speech.
 
->For he will be great in the sight of the Lord\
-and will never drink wine or beer.\
-He will be filled with the Holy Spirit\
-while still in his mother’s womb.\
-He will turn many of the sons of Israel\
-to the Lord their God.\
-And he will go before Him\
-**in the spirit and power of Elijah**,\
-to turn the hearts of fathers\
-to their children,\
-and the disobedient\
-to the understanding of the righteous,\
-to make ready for the Lord a prepared people.\
+>For he will be great in the sight of the Lord
+and will never drink wine or beer.
+He will be filled with the Holy Spirit
+while still in his mother’s womb.
+He will turn many of the sons of Israel
+to the Lord their God.
+And he will go before Him
+**in the spirit and power of Elijah**,
+to turn the hearts of fathers
+to their children,
+and the disobedient
+to the understanding of the righteous,
+to make ready for the Lord a prepared people.
 Luke 1:15-17
 
 Side note: when Gabriel says that John will never drink wine or beer (v15), it's a reference to the conditions that the Israelites would enforce on themselves when they were under a serious vow, and there's more too it than just wine & beer. See Numbers 6 (the rules), Judges 13:3-5 (Samson).
@@ -40,43 +40,43 @@ Zechariah couldn't speak until John was born and named. Then he spoke words from
 
 > Then his father Zechariah was filled with the Holy Spirit and prophesied:
 >
->And child, you will be called\
-a prophet of the Most High,\
-for you will go before the Lord\
-to **prepare His ways**,\
-to give His people knowledge of salvation\
-through the forgiveness of their sins.\
-Because of our God’s merciful compassion,\
-the Dawn from on high will visit us\
-to shine on those who live in darkness\
-and the shadow of death,\
-to guide our feet into the way of peace.\
+>And child, you will be called
+a prophet of the Most High,
+for you will go before the Lord
+to **prepare His ways**,
+to give His people knowledge of salvation
+through the forgiveness of their sins.
+Because of our God’s merciful compassion,
+the Dawn from on high will visit us
+to shine on those who live in darkness
+and the shadow of death,
+to guide our feet into the way of peace.
 Luke 1:76-79
 
 ## The Forerunner Prophecies
 There are 3 prophecies about someone who would come right before 
 
 ## The wait is over
-> Comfort, comfort my people,\
-    says your God.\
-Speak tenderly to Jerusalem,\
-    and proclaim to her\
-that her hard service has been completed,\
-    that her sin has been paid for,\
-that she has received from the Lord’s hand\
+> Comfort, comfort my people,
+    says your God.
+Speak tenderly to Jerusalem,
+    and proclaim to her
+that her hard service has been completed,
+    that her sin has been paid for,
+that she has received from the Lord’s hand
     double for all her sins.
 >
-> A voice of one calling:\
-“In the wilderness **prepare**\
-    **the way** for the Lord;\
-make straight in the desert\
-    a highway for our God.\
-Every valley shall be raised up,\
-    every mountain and hill made low;\
-the rough ground shall become level,\
-    the rugged places a plain.\
-And the glory of the Lord will be revealed,\
-    and all people will see it together.\
+> A voice of one calling:
+“In the wilderness **prepare**
+    **the way** for the Lord;
+make straight in the desert
+    a highway for our God.
+Every valley shall be raised up,
+    every mountain and hill made low;
+the rough ground shall become level,
+    the rugged places a plain.
+And the glory of the Lord will be revealed,
+    and all people will see it together.
 For the mouth of the Lord has spoken.”
 
 Through Isaiah, God is comforting his people at the end of a long exile--first in Babylon, then when they returned to their land, they still weren't free and independent. The exile continued as they anticipated the Day of the Lord, the coming of God into their midst again.
@@ -93,7 +93,7 @@ Malachi does a lot of this pattern: statement from God, clueless questioning fro
 - 2:13 you cover the alter in tears -> for what reason?
 - 2:17 you wearied the Lord -> how have we wearied Him?
 
->“See, I am going to send My messenger, and he will **clear the way** before Me. Then the Lord you seek will suddenly come to His temple, the Messenger of the covenant you desire—see, He is coming,” says the Lord of Hosts. But who can endure the day of His coming? And who will be able to stand when He appears? For He will be like a refiner’s fire and like cleansing lye. He will be like a refiner and purifier of silver; He will purify the sons of Levi and refine them like gold and silver. Then they will present offerings to the Lord in righteousness. And the offerings of Judah and Jerusalem will please the Lord as in days of old and years gone by.\
+>“See, I am going to send My messenger, and he will **clear the way** before Me. Then the Lord you seek will suddenly come to His temple, the Messenger of the covenant you desire—see, He is coming,” says the Lord of Hosts. But who can endure the day of His coming? And who will be able to stand when He appears? For He will be like a refiner’s fire and like cleansing lye. He will be like a refiner and purifier of silver; He will purify the sons of Levi and refine them like gold and silver. Then they will present offerings to the Lord in righteousness. And the offerings of Judah and Jerusalem will please the Lord as in days of old and years gone by.
 Malachi 3:1-5
 
 
@@ -107,7 +107,7 @@ The statements and questions continue, showing a complete disconnect and misunde
 - 3:8 you are robbing Me -> how do we rob you?
 - 3:13 you say harsh things against me -> what have we spoken against you?
 
-> Look, I am going to send you Elijah the prophet before the great and awesome Day of the Lord comes. And he will turn the hearts of fathers to their children and the hearts of children to their fathers. Otherwise, I will come and strike the land with a curse.”\
+> Look, I am going to send you Elijah the prophet before the great and awesome Day of the Lord comes. And he will turn the hearts of fathers to their children and the hearts of children to their fathers. Otherwise, I will come and strike the land with a curse.”
 Malachi 4:5–6
 
 This is the last 3 sentences in the prophecies of Malachi. It's a cliff-hanger that leads us right into the new testament, where a man wearing the same clothes as Elijah (2 Kings 1:8, hairy, leather belt). 
@@ -120,8 +120,8 @@ Some people believe that Elijah will return "for real" before Jesus' second comi
 
 >After John’s messengers left, He began to speak to the crowds about John: “What did you go out into the wilderness to see? A reed swaying in the wind? What then did you go out to see? A man dressed in soft robes? Look, those who are splendidly dressed and live in luxury are in royal palaces. What then did you go out to see? A prophet? Yes, I tell you, and far more than a prophet. This is the one it is written about:
 >
->Look, I am sending My messenger\
-ahead of You;\
+>Look, I am sending My messenger
+ahead of You;
 he will prepare Your way before You.
 >
 >I tell you, among those born of women no one is greater than John, but the least in the kingdom of God is greater than he.”
