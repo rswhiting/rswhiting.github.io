@@ -4,8 +4,6 @@ layout: post
 category: Software
 tags: [Scope]
 ---
-
-# Just a Horn
 A fable
 
 Mr Cardigan invited the Engineer to his house and said, "I would like you to obtain a horn--just a horn. I want to use it to call my dog and I find the sound far more pleasant than a whistle or clap."
