@@ -7,7 +7,7 @@ tags: []
 
 Several people in my life have pulled me aside and asked me, "What can I do to become a developer? Can I do it without getting a degree?"
 
-I usually have a rambling unhelpful answer readily available. When one of my brothers asked me, I came up with some more systematic answers, but it didn't seem like enough. Then a good friend of mine from college reached out, and I could bring myself to fire off a bunch of useful thing to self-learn without some context and structure to it--because I believe he'll actually do it.
+I usually have a rambling unhelpful answer readily available. When one of my brothers asked me, I came up with some more systematic answers, but it didn't seem like enough. Then a good friend of mine from college reached out, and I couldn't bring myself to fire off a bunch of useful thing to self-learn without some context and structure to it--because I believe he'll actually do it.
 
 Most people _could_ become software developers if they wanted to.
 
@@ -49,17 +49,17 @@ Learn a bit of Python. Learn enough to automate some processes and make your lif
 ### Principles & Other
 There are a bunch of other concepts and categories that you should become familiar with. Don't dedicate your life to these, but spend an afternoon reading and familiarizing yourself with the concepts so that they're familiar.
 
-OAuth - how to do security. Never ever write your own, always use an existing solid library
-Design - look at how different companies do software design as a process
-Scaling - how do you scale a webserver? 
-Code review - what does a code review look like? how can I welcome changes to code I worked so hard on?
-Testing - how can I automate testing? what are mocks? what frameworks make this easy?
-Agile development - what is agile? why doesn't anyone actually do scrum?
-SOLID - read and understand the SOLID Principles
-Design Patterns - what is a design pattern? why are they useful? 
-AWS - what does Amazon have to do with servers? do a few lambda tutorials, maybe serverless
-Rest - build a Rest endpoint, read rest-ful principles
-GraphQL - why is graphql gaining so much popularity? make a graphql endpoint
+* OAuth - how to do security. Never ever write your own, always use an existing solid library
+* Design - look at how different companies do software design as a process
+* Scaling - how do you scale a webserver? 
+* Code review - what does a code review look like? how can I welcome changes to code I worked so hard on?
+* Testing - how can I automate testing? what are mocks? what frameworks make this easy?
+* Agile development - what is agile? why doesn't anyone actually do scrum?
+* SOLID - read and understand the SOLID Principles
+* Design Patterns - what is a design pattern? why are they useful? 
+* AWS - what does Amazon have to do with servers? do a few lambda tutorials, maybe serverless
+* Rest - build a Rest endpoint, read rest-ful principles
+* GraphQL - why is graphql gaining so much popularity? make a graphql endpoint
 
 It is one thing to follow a tutorial blindly, it is another to understand it. Seek to understand it.
 
