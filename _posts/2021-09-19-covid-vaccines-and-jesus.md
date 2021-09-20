@@ -55,11 +55,14 @@ The Center for Disease Control is a non-political public health research agency 
 
 The World Health Organization is an international public health organization with the goal of "the attainment by all people of the highest possible level of health" and was a key player in the eradication of smallpox, near-eradication of polio, and the development of the ebola vaccine.
 
+Over 4.55 Million people have died globally from covid, and now over 5.95 Billion doses of vaccines have been given. This is not a United States politics thing. This is a global health crisis. I have friends in Thailand who just received their vaccine because it is only now available to them--and they got it thankfully and gratefully. 
+
 On the other hand, some sensationalist talk show hosts have pushed wild conspiracy theories and caused the hospitalizations of many by suggesting that horse dewormers can cure covid. Please seek truth--read the research articles from respected scientists, not just articles that support what you already want to believe. Do health agencies make some mistakes or draw incorrect conclusions sometimes? Yes, but following their guidance is much wiser than your facebook friend's cousin who found a mushroom cure.
 
 Some red flags to look for: 
-Does this source claim to be aligned with your political view? Medical research is vastly non-political.
-Does this source claim to be Christian? Medical research is vastly non-religious.
+* Does this source claim to be aligned with your political view? Medical research is vastly non-political.
+* Does this source claim to be Christian? Medical research is vastly non-religious.
+* Does this source claim secret knowledge or massively organized coverups? People in groups are really bad at keeping secrets for long, see Enron. They are likely selling you something.
 
 Cut the poisonous inputs out of your life and find inputs that pushes you to think deeply, investigate openly, and humbly act in love.
 
