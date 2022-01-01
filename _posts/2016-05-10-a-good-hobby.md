@@ -2,7 +2,7 @@
 title: A good hobby
 layout: post
 category: Hobby
-tag: [Philosophy, FixMe]
+tag: [Philosophy]
 ---
 >A good hobby draws me closer to God or closer to people.
 >
@@ -42,4 +42,4 @@ You may notice I have a lot of hobbies, and I do. But these are the hobbies I do
 
 I'm making a conscious effort to prune the extras and become more content where I am than ever before. Take a look at your hobbies, modify the maxim to make it your own, and weed out the things that leave you frustrated, alone, and further from God and the people you love.
 
-![computer](/public/images/2016/05/20160424_165052-1.jpg)
+![computer](/public/images/2016/05/20160424_165052.jpg)
