@@ -12,6 +12,7 @@ My heart sunk. I was training to become a skirmish commander, but this fleet nee
 I checked my shields and punched warp to get back in the fight.
 
 <!-- more -->
+---
 
 I was looking over market data to see what I could import for profit when ping went out. I glanced down at my comms: "Fleet commander Khun: forming a fleet to jump a few wormholes. Be prepared to die."
 
