@@ -5,7 +5,7 @@ category: Story
 tags: [Eve Online, Gaming]
 ---
 
-I heard a new voice on the radio, "Fleet commander, what are your orders." Static. My comms flashed with battle updates, we were losing ships fast. "Fleet commander, please respond."
+I heard a new voice on the radio, "Fleet commander, what are your orders?" Static. My comms flashed with battle updates, we were losing ships fast. "Fleet commander, please respond."
 
 My heart sunk. I was training to become a skirmish commander, but this fleet needed someone with hardened battle experience. My finger twitched on the comm link. Should I take command? Then over the radio, "This is Alex, I'm taking command until Khun responds. All remaining units form up on me." His callsign flashed in comms. I realized, I'd been holding my breath and exhaled.
 
@@ -35,7 +35,7 @@ After silencing the alarms that lit up my console, I floated in silence. Diagnos
 
 With the worst of the damage repaired, my attention returned to the fleet. How long had it been silent? Seconds? Minutes?
 
-I heard a new voice on the radio, "Fleet commander, what are your orders." Static. My comms flashed with battle updates, we were losing ships fast. "Fleet commander, please respond."
+I heard a new voice on the radio, "Fleet commander, what are your orders?" Static. My comms flashed with battle updates, we were losing ships fast. "Fleet commander, please respond."
 
 My heart sunk. I was training to become a skirmish commander, but this fleet needed someone with hardened battle experience. My finger twitched on the comm link. Should I take command? Then over the radio, "This is Alex, I'm taking command until Khun responds. All remaining units form up on me." His callsign flashed in comms. I realized, I'd been holding my breath and exhaled.
 
