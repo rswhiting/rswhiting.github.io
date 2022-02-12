@@ -1,7 +1,7 @@
 ---
 title: "Wormholes to Hel - an Eve story"
 layout: post
-category: Blog
+category: Story
 tags: [Eve Online, Gaming]
 ---
 
