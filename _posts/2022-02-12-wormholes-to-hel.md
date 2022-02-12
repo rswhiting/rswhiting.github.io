@@ -24,7 +24,7 @@ Khun barked out orders--none directed at me, many of which I didn't understand b
 
 I'd heard of Hels before: massive supercarrier class Minmatar monsters. These were the stuff of legends and the great wars from before my time.
 
-On command, I warped and engaged. Our logistics team already had the carrier's warp capabilities disrupted. My autocannons shook my ship as I slammed my Cormorant into an evasive orbit around the monster. It was like throwing sand at a shark.
+On command, I warped and engaged. Our forward team already had the carrier's warp capabilities disrupted. My rail-guns shook my ship as I slammed my Cormorant into an evasive orbit around the monster. It was like throwing sand at a shark.
 
 It's mouth opened and fighters streamed from it's open bay, on comms, Khun barked, "All units target fighters. Free fire, free fire."
 
