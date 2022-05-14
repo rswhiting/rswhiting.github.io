@@ -81,6 +81,8 @@ Back at my house I took a final picture with all the pieces--then threw out the 
 
 I hand-sanded down the edges, drilled and dremeled appropriate holes in the top for the controls, and drilled the hole for the ground wire to the bridge (almost forgot).
 
+I've mentioned pre-drilling screw holes several times, and it's worth pointing out that the screws are cheap and the wood is hard, so if I didn't pre-drill, I'd likely have stripped screws and anger-management issues.
+
 ![Travel Guitar Build](/public/images/travel-guitar/travel-guitar-12.jpg)
 
 Then I stained it with my favorite stain color, waited for it to dry, and slowly added layers of clear coat. This part took the most patience because each layer needed a few hours to dry.
@@ -110,6 +112,8 @@ After passing the test, I pushed all the wires where they needed to go and close
 ![Travel Guitar Build](/public/images/travel-guitar/travel-guitar-17.jpg)
 
 Then I attached the neck, put on strings, and tested it again! I couldn't believe it was actually working! Then I remembered that a strap is pretty important for a guitar that has no leg brace, so I attached those.
+
+At this point, I tested it again and realized that the jack didn't go all the way in--I didn't drill deep enough. I was afraid that I would have to disassemble a lot before I could re-drill that hole, but then I figured out that I could adjust the inner nut on the jack plate by just enough to fit the jack all the way in. So, cautionary lesson: the jack goes in deeper than the jack receiver, test accordingly. I didn't.
 
 ![Travel Guitar Build](/public/images/travel-guitar/travel-guitar-18.jpg)
 
