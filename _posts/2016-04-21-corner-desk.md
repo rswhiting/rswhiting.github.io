@@ -2,7 +2,7 @@
 title: Corner Desk
 layout: post
 category: Project
-tags: [Office, FixMe]
+tags: [Office]
 ---
 My office was swallowed by a baby room, so I moved my computer to share the office with my wife.
 
@@ -33,6 +33,6 @@ The steps:
   9. Re-assemble computer & desk.
  10. Play [Factorio](https://www.factorio.com/) with friends.
 
-![Corner Desk](/content/images/2016/04/20160418_200829-COLLAGE-1.jpg)
+![Corner Desk](/public/images/2016/04/20160418_200829-COLLAGE.jpg)
   
 Or if you want the full [gallery](https://goo.gl/photos/tb6vadQTryh8pz9Y8)
