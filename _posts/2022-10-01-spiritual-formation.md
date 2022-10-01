@@ -7,6 +7,8 @@ tags: [ Masters ]
 # Spiritual Formation in Seminary
 It's no secret that I love to study the Bible. My children and wife regularly find themselves listening to the definition of a Hebrew word and how it illuminates and connects scripture. At work, I lead the local site employee Christian group. In my church, I ask questions at board meetings to press the church toward scriptural alignment. In my life group, those who gather look to me as a trusted voice when we struggle through difficult biblical passages ever onward toward Jesus. I have taken to heart the psalmist's plea to meditate day and night on the instruction of Yahweh (Psalm 1:2) and Jesus' prayer that we take hold of eternal life: knowing Yahweh (John 17:3).
 
+<!-- more -->
+
 So it was no surprise to anyone that I began a more formal path of biblical education. Beginning a master's program at Liberty University will focus my study and provide me with the tools I need to better serve my church, my coworkers, and my family. Deadlines, papers, reading, and formatting constraints will challenge my discipline and like metal in the forge, sharpen my mind into a suitable tool in the hand of the Master.
 	
 ## Spiritual Formation
