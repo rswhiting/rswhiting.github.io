@@ -5,7 +5,7 @@ category: Blog
 tags: [ Adoption ]
 ---
 
-## Visa day
+## visa day
 In order to adopt across countries, we needed to get an immigration visa in their Taiwanese passports to bring them through the US border. The appointment at AIT (the American Institute in Taiwan) determined the timeline for the rest of the trip, and we woke up that morning with four kids for the first time.
 
 <!-- more -->
