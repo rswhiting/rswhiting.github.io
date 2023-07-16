@@ -5,7 +5,7 @@ category: Blog
 tags: [ Adoption ]
 ---
 
-Next month is August. A year ago, we were preparing to travel to Taiwan to pick up our two kids. A little later, all those plans came crumbling down, and we spend four months in depression, fear, and unknown. I captured how I felt at the time in an [earlier blog post](https://rswhiting.com/blog/2022/12/19/how-are-you-doing/), and reading it today brought me to tears. As I have continued to study the Bible and allow it to change me, I kept coming back to the psalms: song written to capture the stories of people who feared, doubted, wept, and came out the other side praising Yahweh for his faithfulness. I set out to write my own psalm to capture that time, but I ended up stitching together 19 passages that express my heart more than my own fumbling words.
+Next month is August. A year ago, we were preparing to travel to Taiwan to pick up our two kids. A little later, all those plans came crumbling down, and we spend four months in depression, fear, and unknown. I captured how I felt at the time in an [earlier blog post](https://rswhiting.com/blog/2022/12/19/how-are-you-doing/), and reading it today brought me to tears. As I have continued to study the Bible and allow it to change me, I kept coming back to the psalms: song written to capture the stories of people who feared, doubted, wept, and came out the other side praising Yahweh for his faithfulness. I set out to write my own psalm to capture that time, but I ended up stitching together 19 passages that express my heart more than my own fumbling words ever could.
 
 <!-- more -->
 
