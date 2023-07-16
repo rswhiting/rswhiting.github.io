@@ -81,6 +81,8 @@ For Yahweh watches over the way of the righteous,[^18]\
 The eyes of Yahweh are on the righteous,\
 and his ears are open to their cry for help. [^19]
 
+![Hiking](https://lh3.googleusercontent.com/pw/AIL4fc-cZbsd2Mb-ylvR1wRoqhMac6COmc5z6zMgaT8eWzDaBteHJIC47yT8Z0O-lO3eKywmH9OYB4SYGII6bqdyg4znvAaIU3Hu-X6R3KhUKLVeYtrvhL1NBbfV5K8epWEk5qU5jkZxOWlshJ2jhzitQ0Z0Ig=w1918-h1439-s-no?authuser=0)
+
 [^1]: Je 31:15
 [^2]: Ps 88:9\
 [^3]: Ps 88:1-2
