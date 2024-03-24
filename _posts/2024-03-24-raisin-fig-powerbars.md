@@ -5,7 +5,9 @@ category: Spiritual
 tags: [ Bible ]
 ---
 
-# Raisin-Fig Powerbars
+I was reading in 1 Samuel about when David was trying to recover his kidnapped family (and those of his army) when he gave a fig cake to an Egyptian slave who was left to die in the dessert. I thought, "When was the last time I read about a fig cake? Abigail? Surely there was one before that, like Exodus..." So I investigated. Here are my notes.
+
+<!-- more -->
 
 ## Figs
 
