@@ -18,7 +18,7 @@ At first glance, this seems bizarre. Why not stop after the robe, crown, and ano
 But there's another layer here: the odd specificity of these body parts invites us to look for deeper connections in Scripture.
 
 ## Thumbs and Toes: A Symbol of Dominion or Defeat
-The next time thumbs and toes appear together (and the **only** other time thumbs appear) in the Bible, they're associated with a gruesome story in [Judges 1:6–7](https://biblehub.com/csb/judges/1.htm). Adoni-Bezek (lord of lightning[^1]), a Canaanite king, had a reputation for cruelty. He cut off the thumbs and big toes of 70 conquered kings, forcing them to scavenge for food under his table. This mutilation wasn't random; it symbolized humiliation and helplessness. Without thumbs, they couldn't wield weapons. Without big toes, they couldn't stand firmly or walk properly. They were rendered powerless—living trophies of Adoni-Bezek's dominance.
+The next time thumbs and toes appear together (and the **only** other time thumbs appear) in the Bible, they're associated with a gruesome story in [Judges 1:6–7](https://biblehub.com/csb/judges/1.htm). Adoni-Bezek (lord of lightning[^1] [^2]), a Canaanite king, had a reputation for cruelty. He cut off the thumbs and big toes of 70 conquered kings, forcing them to scavenge for food under his table. This mutilation wasn't random; it symbolized humiliation and helplessness. Without thumbs, they couldn't wield weapons. Without big toes, they couldn't stand firmly or walk properly. They were rendered powerless—living trophies of Adoni-Bezek's dominance.
 
 When the Israelites captured Adoni-Bezek, they repaid him in kind, cutting off his thumbs and toes. This poetic justice highlights how God's people were called to reject the pagan practices of dominance and humiliation.
 
@@ -51,6 +51,6 @@ So, the next time someone asks, "What's up with the blood on the thumbs, toes, a
 
 ---
 
-[^1]: 137. אֲדֹנִי־בֶזֶק ʾĂdônîy-Bezeq, ad-o´´-nee-beh´-zek; from 113 and 966; lord of Bezek; lord-of, a Canaanitish king:—Adonibezek. 966. בֶּזֶק Bezeq, beh´-zek; from 965; lightning; Bezek, a place in Pal.:—Bezek.[^2] 
+[^1]: 137 אֲדֹנִי־בֶזֶק ʾĂdônîy-Bezeq, ad-o´´-nee-beh´-zek; from 113 and 966; lord of Bezek; lord-of, a Canaanitish king:—Adonibezek. 966 בֶּזֶק Bezeq, beh´-zek; from 965; lightning; Bezek, a place in Pal.:—Bezek.
 [^3]: Strong, James. A Concise Dictionary of the Words in the Greek Testament and The Hebrew Bible. Bellingham, WA: Logos Bible Software, 2009.
 [^2]: Walter C. Kaiser Jr., "Putting It All Together: The Theological Use of the Bible," in Introduction to Biblical Hermeneutics: The Search for Meaning, ed. Walter C. Kaiser Jr. and Moisés Silva (Grand Rapids, MI: Zondervan, 2007), 247.
