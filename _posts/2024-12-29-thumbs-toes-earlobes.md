@@ -34,6 +34,7 @@ When approaching passages like this, it's helpful to use hermeneutics—the art 
 - The consecration of Aaron (Exodus 29:20; Leviticus 8:23; Leviticus 14:14).
 - The mutilation of pagan kings (Judges 1:6–7).
 - The pierced ear of a servant (Exodus 21:5–6).
+
 These links aren't coincidental. They reflect the Bible's literary and theological depth, where even the strangest details point to profound truths about God's character and His relationship with His people. It is vital for the interpreter to convincingly link the parallel passages and subjects. As Dr. Kaiser said, "Often the same word, phrase, clause, or expression appears in two or more passages in a similar connection and with reference to the same or a closely related subject. It is most important for the interpreter to demonstrate such relations, for the mere presence of the same words and expressions is not by itself sufficient evidence for linking the two passages."[^3]
 
 ## Paul's Marks of Servitude
