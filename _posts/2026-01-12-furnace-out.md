@@ -32,3 +32,4 @@ The old board left a burn mark on the furnace casing, so something failed pretty
 
 (Here's the new control board installed and working)
 ![furnace-newboard](https://lh3.googleusercontent.com/pw/AP1GczNSulPkcTORd2wOKECs3TGXx2z4HMED-yKKRoqn7SNUKzovyQX1Y-prLxvT8KJVHH2b8bnNu-0PMm9kL7lFpltBOicilh8AknQHYt2Dn97c48idDD92efstGm_2EpVjghwVVQ5SLo9bThOC9kgPbbvxhQ=w1918-h1444-s-no-gm?authuser=0)
+
