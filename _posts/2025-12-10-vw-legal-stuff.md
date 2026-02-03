@@ -21,3 +21,5 @@ The bonded title is valid for 3 years. If no one comes forward to claim ownershi
 I resisted purchasing anything until I had the title in hand, since I didn't want to waste money on parts for a car that I couldn't legally own. Now that I have the title, I can move forward with the conversion project!
 
 Sorry, no pictures for this post--it's mostly paperwork and phone calls. Protip: the DMV and sheriff's office can help answer questions and get you through the process!
+
+[All the VW EV Conversion posts](/vw-ev-conversion)

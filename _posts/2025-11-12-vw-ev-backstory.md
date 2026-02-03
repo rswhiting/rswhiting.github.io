@@ -47,3 +47,5 @@ I decided I didn't want to buy a full EV conversion kit--they're very expensive,
 1. Maybe make the body nice (paint, rust repair, etc)
 
 I have a long way to go, but I'm excited to document the journey here on my blog. As I write this, it's Feb 2026, and I'm backdating these posts to reflect when I actually did the work. My goal is to document the decisions I make as I go, so others can learn from my experience (both the successes and failures). 
+
+[All the VW EV Conversion posts](/vw-ev-conversion)
