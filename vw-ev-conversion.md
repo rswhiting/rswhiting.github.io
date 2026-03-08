@@ -14,3 +14,4 @@ title: VW EV Conversion
 - [VW EV Removing the Gas](/blog/2026/01/25/vw-no-gas)
 - [VW 12V Testing](/blog/2026/01/31/vw-12v-testing)
 - [VW Seat Removal](/blog/2026/02/08/vw-seat-removal)
+- [VW Cleaning and Testing](/blog/2026/03/08/cleaning-and-testing)
