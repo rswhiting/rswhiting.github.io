@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Android Auto install (90% complete)"
+title: "Android Auto install"
 description: "Installed a 7-inch Android Auto head unit. Fixed terrible wiring from the previous owner. Got stuck at 90% with ignition wiring and a DIN latch that won't cooperate."
-category: vw
-tags: [vw, ev, android-auto, wiring]
+category: Blog
+tags: [ Blog, VW, EV Conversion ]
 ---
 
 I spent yesterday pulling the old MP3 CD player out of the Bug and installing a 7-inch Android Auto head unit with a pair of 4-inch speakers.
@@ -18,9 +18,9 @@ The bad news: it's stuck at 90% complete and I had to walk away.
 
 The previous owner had installed an aftermarket MP3 CD player at some point. When I pulled it out, I found a rats nest of spliced wiring behind it — the kind where you can't tell what's intentional and what's just leftover from three different head unit swaps.
 
-![Robert holding wire stripper with old head unit removed](https://photos.google.com/share/AF1QipP3wZE8T_neRk5iC_XP8KZaTtBaDslcrewVlEZetkSrCy-9a52tBOnMLJnkDKpJXQ/photo/AF1QipMtGsH_Kk1kgyX88A-NjWQinAAHbs7SQ8hpCqT4?key=dDJadDdvbXM5MDVPaUZsemxmMlhVczNZN3JLZ1hn)
+![Robert holding wire stripper with old head unit removed](https://lh3.googleusercontent.com/pw/AP1GczMa5ob1NIq44j1CiAvz0aiBdS-DmbIVOlwFB1oxvyZJY6SSQswHq1cMqaqGfnkAlDCPTUuglUmFlp-XRONX7hEgpQsAmAHOi6hQUT4lWL9eBo4OZGk4zPCqwprckyk9w4J0hZzdmnjwD__GMS8NuQQWwA=w1558-h1169-s-no-gm?authuser=0)
 
-![Rats nest wire plug](https://photos.google.com/share/AF1QipP3wZE8T_neRk5iC_XP8KZaTtBaDslcrewVlEZetkSrCy-9a52tBOnMLJnkDKpJXQ/photo/AF1QipPd3zgsRc8K2sz4z4DCuwjnuDYJYmGNcKBSYkpu?key=dDJadDdvbXM5MDVPaUZsemxmMlhVczNZN3JLZ1hn)
+![Rats nest wire plug](https://lh3.googleusercontent.com/pw/AP1GczN5XTcNXsUTu9I_lpdNVeJLJbkSvdFFbKjLSnE2W90ahMJp7oi95hTFaMd8RSh6FYQa2IGTJ_XQzsuoYaMc65QOp1s89XWrJm5jvpgsLb6aMh7INLdJiZ6sp3buOS8FheHrS7FJ3Rbf27tRFXqjPdpnEQ=w1524-h2024-s-no-gm?authuser=0)
 
 I cut it all out and started fresh.
 
@@ -28,15 +28,15 @@ I cut it all out and started fresh.
 
 I clipped the wires, stripped them, and soldered the new Android Auto adapter to the factory plug. No crimp connectors. No butt splices. Just solder, heat shrink, and electrical tape.
 
-![Clipped wires ready for soldering](https://photos.google.com/share/AF1QipP3wZE8T_neRk5iC_XP8KZaTtBaDslcrewVlEZetkSrCy-9a52tBOnMLJnkDKpJXQ/photo/AF1QipPmrXV_4c7wcZLtikwuCkS-d2JRsjN6nImocM2i?key=dDJadDdvbXM5MDVPaUZsemxmMlhVczNZN3JLZ1hn)
+![Clipped wires ready for soldering](https://lh3.googleusercontent.com/pw/AP1GczOgcierNTr1IoGmWuwT-7q24YYxBAye8ttveDTRP2tVekdrc3HaMMckhzWq97cX4AA20e2sGub11k58UE7U3QWwqmy5DSZlQMqkteR6JOCzdn_0_gKx4q8CP3URQODh7kLRP1ZWsoCJB-2B-fk7lkQFxw=w1558-h1173-s-no-gm?authuser=0)
 
-![Soldered connections](https://photos.google.com/share/AF1QipP3wZE8T_neRk5iC_XP8KZaTtBaDslcrewVlEZetkSrCy-9a52tBOnMLJnkDKpJXQ/photo/AF1QipNtgxiRMONppAQmgXfe2wr98CMp4Epw3OomM0hZ?key=dDJadDdvbXM5MDVPaUZsemxmMlhVczNZN3JLZ1hn)
+![Soldered connections](https://lh3.googleusercontent.com/pw/AP1GczMeET2gDRuZHcK1H7EP4YWH_JxFGRpf5IJFGRaQyP5IBy2ZLHqnQwXMBgKzppkzaIqHW5cUT0IHFVksBX21WmSUPxCrz40vMACOCtlw6PsGbcA5OLACzkd0Fupvs7yxogEwPfZT9CiW9fWKwvXpbePmhg=w1558-h1173-s-no-gm?authuser=0)
 
 The new unit slid into the dash (but didn't click in), the speakers sat in the styrofoam half-box it came in, and when I plugged it in, Android Auto loaded on the first try. I connected my phone. Google Maps came up. Music played through both speakers.
 
 For about ten minutes, it felt like a finished project.
 
-![Final install with speakers](https://photos.google.com/share/AF1QipP3wZE8T_neRk5iC_XP8KZaTtBaDslcrewVlEZetkSrCy-9a52tBOnMLJnkDKpJXQ/photo/AF1QipNXV69p13kGs2JYqoHo0auKqVfm1Qcwl7RcTHOl?key=dDJadDdvbXM5MDVPaUZsemxmMlhVczNZN3JLZ1hn)
+![Final install with speakers](https://lh3.googleusercontent.com/pw/AP1GczNTAtz4ej7a1aoem7VUAZQAOEjqyJ2umwbD0dvzhKkL1B2G7kQsjpHwR7iOPf8sSexFot1B9VcIItmb35FiQ5QaxEB_sjnt73cbrUN5-ENw6jsK_XF-SV1uJj6udbR3Vh2vXfvisBlugEiJLxxWzUsZiQ=w1558-h1173-s-no-gm?authuser=0)
 
 ## What's broken
 
