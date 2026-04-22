@@ -15,3 +15,4 @@ title: VW EV Conversion
 - [VW 12V Testing](/blog/2026/01/31/vw-12v-testing)
 - [VW Seat Removal](/blog/2026/02/08/vw-seat-removal)
 - [VW Cleaning and Testing](/blog/2026/03/08/cleaning-and-testing)
+- [Android Auto install](/blog/2026/04/04/android-auto-install)
