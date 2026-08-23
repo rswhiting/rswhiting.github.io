@@ -61,3 +61,7 @@ On the way back, Becca directed us to an ice-cream shop way off the main road th
 
 ![Ice cream](https://lh3.googleusercontent.com/pw/AP1GczMn0QHZ3lxD4kRTKHxnq8cwvSWbFDnDJb43BCdYsaHACZ-AXabxcc8ixqbj8tXeaXMAPNXbshfaYi36C0E18PRs32KdoBHgP_F_wGhWsgi5MypEnSUKj7S45l5Y0xfk2SrlQtKlRZk-X6VyuoFiFqBKsQ=w1438-h1083-s-no-gm?authuser=0)
 
+---
+
+← [Playa del Carmen, day 4: rain, exploring, and planning](/travel/2026/06/11/playa-del-carmen-day-4)  |  [Playa del Carmen, day 6: relaxing and recovering](/travel/2026/06/13/playa-del-carmen-day-6) →
+
