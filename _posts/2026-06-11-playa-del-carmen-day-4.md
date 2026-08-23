@@ -32,3 +32,7 @@ After the beach, the kids came back to jump in the pool while Becca and I nailed
 ![Kids in the pool](https://lh3.googleusercontent.com/pw/AP1GczNVR3_AUZGZwQJNXtJcx5JgrY_l8mhEAOCzSxk1b5004HDkdrZmmdeOaUTTqjR4gXOhfZGgQfxhC_zMgHCA0N2UPjiEMkOvRS2JAle8jr1asZtJ2TQEEuY3019v4_Wk4TlciVdYEHOVwkogNbAC5P_sQg=w1078-h809-s-no-gm?authuser=0)
 
 It was good to have a day of exploring and laying low.
+
+---
+
+← [Playa del Carmen, day 3: cenotes and more tacos!](/travel/2026/06/10/playa-del-carmen-day-3)  |  [Playa del Carmen, day 5: Chichen Itza and Ek Balam](/travel/2026/06/12/playa-del-carmen-day-5) →

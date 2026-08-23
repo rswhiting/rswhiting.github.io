@@ -42,3 +42,7 @@ We were dropped off (at our request) at a [pork-only place](https://maps.app.goo
 After lunch and showers, the 3 older kids headed down to the beach to play in the sand. Everyone else contemplated naps and logistics. Once they were beached out for the day, we hung out and watched more anime!
 
 ![Jack chillin](https://lh3.googleusercontent.com/pw/AP1GczP4T0nRaP0rQU9joj-S7KEjdVs4uzw0-n6RbytQ1xJXIvGq4Zs9Gq58ZPZjCLT5CLaUqK7qn0XMYa13hmzoGD8mGq_rvJ3lcOP2laVsjztxYFA9fVXTufaMgMQq9oronkX3Op0IjfK7UnSIw3PcpAWiuw=w1078-h812-s-no-gm?authuser=0)
+
+---
+
+← [Playa del Carmen, day 2: beach & tacos](/travel/2026/06/09/playa-del-carmen-day-2)  |  [Playa del Carmen, day 4: rain, exploring, and planning](/travel/2026/06/11/playa-del-carmen-day-4) →

@@ -30,3 +30,7 @@ We got some ice-cream and shoes for the Jack and Noah before walking back to Cas
 There was a minor conflict about beach expectations for the afternoon--but we sent the 3 older kids to play at the beach then to the pool. In the meantime, I slipped on the stairs and (still upright) slid down 6-8 stairs--my elbow and foot will be bruised for a bit, but it could have been a lot worse.
 
 We're beginning to wrap up the trip--souvenirs purchased, memories crystalized, and tomorrow we begin the trip home. I'm excited to take these notes and turn them into full blog posts, it's been an amazing adventure into Mexico!
+
+---
+
+← [Playa del Carmen, day 6: relaxing and recovering](/travel/2026/06/13/playa-del-carmen-day-6)  |  [Playa del Carmen, day 8: heading home](/travel/2026/06/15/playa-del-carmen-day-8) →

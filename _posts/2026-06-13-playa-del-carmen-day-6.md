@@ -32,3 +32,7 @@ In the evening, Phil and I walked 40min through two night markets with local, ar
 ![Earing vendor](https://lh3.googleusercontent.com/pw/AP1GczMc3rA0BgwARHlVaDKX46iAhpPyvcWzy2J9AJxNe-dNNsnTrk_oMrvKvO9Ap0Dn7AC6ci9YoVXVrcVXptbYXNUCDZC1ZO02gnmaZ3J3yHjpPug51DcRFDrU6uzTqTTHWpdZf-_mmrdoTT9LjFbspC9FEQ=w1078-h812-s-no-gm?authuser=0)
 
 After dropping off our findings a home, Phil and I took a walk down to a local park to smoke a cigar and talk. I had never smoked anything before and expected a feeling nauseous on my first go, but a Mexican cigar with my brother-in-law was an awesome experience--smokey aromas that can't be rushed pushed the conversation while keeping interruptions and pace to a new level. I won't be smoking a cigar again soon, but it was very peaceful and connecting.
+
+---
+
+← [Playa del Carmen, day 5: Chichen Itza and Ek Balam](/travel/2026/06/12/playa-del-carmen-day-5)  |  [Playa del Carmen, day 7: church, tacos, and beach](/travel/2026/06/14/playa-del-carmen-day-7) →

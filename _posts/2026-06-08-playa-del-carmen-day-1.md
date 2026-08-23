@@ -52,3 +52,7 @@ One more thing before bed: the plumbing situation. The host's note was explicit,
 
 Everyone was asleep by 8pm.
 
+---
+
+[Playa del Carmen, day 2: beach & tacos](/travel/2026/06/09/playa-del-carmen-day-2) →
+

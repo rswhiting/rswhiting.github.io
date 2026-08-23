@@ -38,3 +38,7 @@ I had a [taco place](https://maps.app.goo.gl/inE3he9mndzDLu767) on my list, and 
 ![30 tacos](https://lh3.googleusercontent.com/pw/AP1GczNu-D9G-1jlTL7rYxMrSt5bCeloMNyexIVVUB8cvB1Z5qyeJILdayyHQu0jQs5XjvTkdEoUZxlOHS6a-mH3DmpGegdTwH5ZBToN_4A1FV6b-lCwI5BTKw1C8-enhlX3AGz1LSLgXEurp4tIu8IASdI3pw=w1078-h812-s-no-gm?authuser=0)
 
 After the blisters and exhaustion, we laid low for the afternoon, watched anime of online shopping guy, Becca cooked dinner onions, chicken, and rice. Phil made Pina Coladas and Margaritas for the adults, and everyone went to bed happy and full.
+
+---
+
+← [Playa del Carmen, day 1: we made it](/travel/2026/06/08/playa-del-carmen-day-1)  |  [Playa del Carmen, day 3: cenotes and more tacos!](/travel/2026/06/10/playa-del-carmen-day-3) →

@@ -20,3 +20,7 @@ We woke up, organized our bags, cleared out the rooms and ate as many of the fri
 The longest part of the return flight was the immigration line back into the US. We were in line for at least an hour, and held spaces for people before and after us to go to the bathroom--even for US citizens, it was a bit embarrassing. But we made it through, and were able to get our bags and head home. We were all tired, but happy to be back in our home with our pets and in our own beds.
 
 I'm so grateful for the time we had in Mexico, and for the memories we made as a family. It was a trip that will be remembered for years to come, and I'm already looking forward to our next adventure together.
+
+---
+
+← [Playa del Carmen, day 7: church, tacos, and beach](/travel/2026/06/14/playa-del-carmen-day-7)
