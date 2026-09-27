@@ -2,7 +2,7 @@
 layout: post
 title: "High voltage, low patience"
 description: "Ordered a Kelly motor controller, got offered import fraud, declined. Broke a serial adapter. Programmed the controller anyway. Got half the HV bench wired before running out of copper connectors and steam."
-category: vw
+category: Blog
 tags: [vw, ev-conversion, high-voltage]
 ---
 
