@@ -8,7 +8,7 @@
     <div class="sidebar-personal-info">
       <div class="sidebar-personal-info-section">
         <a href="{{ site.baseurl }}/about/">
-          <img src="http://www.gravatar.com/avatar/{{ site.author.gravatar }}?s=350" title="View on Gravatar" alt="View on Gravatar" />
+          <img src="https://www.gravatar.com/avatar/{{ site.author.gravatar }}?s=350" alt="{{ site.author.name }}" />
         </a>
       </div>
       <div class="sidebar-personal-info-section">
@@ -24,7 +24,7 @@
         {% if contact[0] == 'email' %}
         {% assign iconname = 'envelope' %}
         {% endif %}
-        <a href="{{ contact[1] }}">
+        <a href="{{ contact[1] }}" aria-label="{{ contact[0] | capitalize }}">
           <i class="fa fa-{{ iconname }}" aria-hidden="true"></i>
         </a>
         {% assign current_index = current_index | plus: 1 %}
