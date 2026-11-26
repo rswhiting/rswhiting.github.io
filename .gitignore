@@ -43,3 +43,8 @@ bower_components
 
 # sass
 .sass-cache
+
+# Bundler
+.bundle
+vendor
+.jekyll-cache
