@@ -20,8 +20,6 @@ It only cost me $20, and some extra supplies from the overflowing garage:
   * spray acrylic/polyurethane
   * caulk
 
-*As an Amazon Associate I earn from qualifying purchases.*
-
 The steps:
 
   1. Cut out a triangle 4 ft x 4 ft.

@@ -73,8 +73,6 @@ Find an open source project you care about and learn how to contribute. Find a t
 ## Interviews
 Read [The Ideal Team Player](https://www.amazon.com/Ideal-Team-Player-Recognize-Cultivate/dp/1119209595/?tag=whitetreesoft-20) by Patrick Lencioni, this is what employers are looking for: people who are humble, hungry to learn/grow/contribute, and socially smart/competent. Basically, will you help them build something great, and do you play nice with others?
 
-*As an Amazon Associate I earn from qualifying purchases.*
-
 Research the company and bring no fewer than 10 serious questions you couldn't answer with their website (technology, profitability, specific culture questions, work-life balance). Ask good-fit questions not benefits questions, you'll get those in the offer package if they offer you a job anyway. Surprisingly few interviewees have any questions, and fewer still have good questions. In your research find out what processes, technology stack, hierarchy, recent newsworthy things. Bring your notebook.
 
 If they ask you questions about technology/concepts you don't know, write it down to study up on later--and tell them that's what you're doing. It's an opportunity to grow and learn more.

@@ -7,8 +7,6 @@ tags: [Guitar, Hobby, Woodworking]
 
 I've been practicing and playing guitar quite a bit over the last year (one my covid hobbies), and I've been buying more equipment than is necessary for my ability level (quite low). When I travel to Taiwan later this year to pick up my kids, I want to bring a guitar with me, but space is limited. I found a [$550 travel guitar](https://www.amazon.com/dp/B07QPSHN5C?tag=whitetreesoft-20), but instead, I decided to build my own by sawing up a $35 electric guitar I found on craigslist.
 
-*As an Amazon Associate I earn from qualifying purchases.*
-
 Here's how I did it...
 
 <!-- more -->
