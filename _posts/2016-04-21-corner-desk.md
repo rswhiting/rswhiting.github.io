@@ -12,7 +12,7 @@ She was sick of her little desk, and I didn't really like my big desk--that trad
 
 It only cost me $20, and some extra supplies from the overflowing garage:
 
-  * 2 [monitor mounts](http://amzn.com/B01BCUM766) (cheap but effective)
+  * 2 [monitor mounts](https://www.amazon.com/dp/B01BCUM766?tag=whitetreesoft-20) (cheap but effective)
   * barrel (contains 3 kegs and a CO2 tank)
   * plywood (bought it a long time ago for some other forgotten project)
   * paint

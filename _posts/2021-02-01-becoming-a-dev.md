@@ -71,7 +71,7 @@ Create your own github projects to solve problems. Make new projects and pick yo
 Find an open source project you care about and learn how to contribute. Find a trivial bug or typo in their issues log and solve it for them. Then pick up something a little more challenging. This will exercise your ability to collaborate, solve, test, and contribute--all things employers care about and useful skills to make yourself better. 
 
 ## Interviews
-Read [The Ideal Team Player](https://www.amazon.com/Ideal-Team-Player-Recognize-Cultivate/dp/1119209595/) by Patrick Lencioni, this is what employers are looking for: people who are humble, hungry to learn/grow/contribute, and socially smart/competent. Basically, will you help them build something great, and do you play nice with others?
+Read [The Ideal Team Player](https://www.amazon.com/Ideal-Team-Player-Recognize-Cultivate/dp/1119209595/?tag=whitetreesoft-20) by Patrick Lencioni, this is what employers are looking for: people who are humble, hungry to learn/grow/contribute, and socially smart/competent. Basically, will you help them build something great, and do you play nice with others?
 
 Research the company and bring no fewer than 10 serious questions you couldn't answer with their website (technology, profitability, specific culture questions, work-life balance). Ask good-fit questions not benefits questions, you'll get those in the offer package if they offer you a job anyway. Surprisingly few interviewees have any questions, and fewer still have good questions. In your research find out what processes, technology stack, hierarchy, recent newsworthy things. Bring your notebook.
 

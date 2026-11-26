@@ -5,7 +5,7 @@ category: Project
 tags: [Guitar, Hobby, Woodworking]
 ---
 
-I've been practicing and playing guitar quite a bit over the last year (one my covid hobbies), and I've been buying more equipment than is necessary for my ability level (quite low). When I travel to Taiwan later this year to pick up my kids, I want to bring a guitar with me, but space is limited. I found a [$550 travel guitar](https://www.amazon.com/dp/B07QPSHN5C), but instead, I decided to build my own by sawing up a $35 electric guitar I found on craigslist.
+I've been practicing and playing guitar quite a bit over the last year (one my covid hobbies), and I've been buying more equipment than is necessary for my ability level (quite low). When I travel to Taiwan later this year to pick up my kids, I want to bring a guitar with me, but space is limited. I found a [$550 travel guitar](https://www.amazon.com/dp/B07QPSHN5C?tag=whitetreesoft-20), but instead, I decided to build my own by sawing up a $35 electric guitar I found on craigslist.
 
 Here's how I did it...
 
@@ -13,9 +13,9 @@ Here's how I did it...
 
 Oh, first, my supply list:
 - electric guitar that has a good sound but that I'm ok losing ($35 on craigslist)
-- low form factor [control plate](https://www.amazon.com/gp/product/B08CN5D1BP)
-- flat [jack plate](https://www.amazon.com/gp/product/B083331C5J)
-- [headless guitar bridge kit](https://www.amazon.com/gp/product/B075XQKXDW)
+- low form factor [control plate](https://www.amazon.com/gp/product/B08CN5D1BP?tag=whitetreesoft-20)
+- flat [jack plate](https://www.amazon.com/gp/product/B083331C5J?tag=whitetreesoft-20)
+- [headless guitar bridge kit](https://www.amazon.com/gp/product/B075XQKXDW?tag=whitetreesoft-20)
 
 Tools & such:
 - skil saw
@@ -27,7 +27,7 @@ Tools & such:
 - soldering gun
 - honey 272 stain (Lowes)
 - polyurethane (clear coat)
-- [pocket amp](https://www.amazon.com/gp/product/B07W3K92ZM)
+- [pocket amp](https://www.amazon.com/gp/product/B07W3K92ZM?tag=whitetreesoft-20)
 
 As you can see, this is not a cheap project, clocking in at around $150--still a good deal cheaper than $550, and it'll have all the "character" of something built by an amateur. I started off by removing the strings, tuners, and neck.
 
