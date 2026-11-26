@@ -5,14 +5,20 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Commands
 
 ```bash
+# One-time setup (needs ruby-dev/build-essential for native gems)
+bundle config set --local path vendor/bundle
+bundle install
+
 # Serve locally with live reload
-jekyll serve
+bundle exec jekyll serve
 
 # Build the site
-jekyll build
+bundle exec jekyll build
 ```
 
-The site builds to `_site/` (gitignored). GitHub Pages handles production deployment automatically on push to `master`.
+The site builds to `_site/` (gitignored). Gem versions are pinned in `Gemfile`/`Gemfile.lock`. `.github/workflows/pages.yml` builds every PR and deploys to GitHub Pages on push to `master`.
+
+**Feeds:** `atom.xml` entry IDs use `feed_id_base` (the old github.io URL) on purpose. Changing it makes every feed reader re-show all posts. `feed.podcast.xml` lists posts tagged `Podcast` (case-sensitive).
 
 ## Architecture
 
