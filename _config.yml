@@ -27,7 +27,13 @@ kramdown:
 excerpt_separator: "<!-- more -->"
 sass:
   style: compressed
-  sass_dir: _scss    
+  sass_dir: _scss
+  sourcemap: never
+
+# Repo docs, not site content. Jekyll 4 adds these to its default excludes.
+exclude:
+  - CLAUDE.md
+  - README.md
 paginate: 5
 paginate_path: '/blog/page:num'
 permalink: pretty
