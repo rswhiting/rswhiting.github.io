@@ -1,21 +1,24 @@
 # Site Info
 title: Robert Whiting
 tagline: 'In search of awesome'
-description: 'A Jekyll theme adapted from <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
+description: 'A developer, in search of awesome.'
 baseurl: ""
-url: https://rswhiting.github.io
+url: https://rswhiting.com
+# Atom entry IDs were minted under the old github.io URL. Keep them stable so
+# feed readers don't re-show every post as new.
+feed_id_base: https://rswhiting.github.io
 logo: '/public/logo.png'
 
 # Site configurations
-gems:
+plugins:
   - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
 markdown: kramdown
 
-# Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
@@ -24,7 +27,13 @@ kramdown:
 excerpt_separator: "<!-- more -->"
 sass:
   style: compressed
-  sass_dir: _scss    
+  sass_dir: _scss
+  sourcemap: never
+
+# Repo docs, not site content. Jekyll 4 adds these to its default excludes.
+exclude:
+  - CLAUDE.md
+  - README.md
 paginate: 5
 paginate_path: '/blog/page:num'
 permalink: pretty
@@ -68,7 +77,5 @@ category_page: '/blog/categories/'
 #  caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
 
 # Puglins
-mathjax: true # whether support mathjax
-google_analytics_token: 'UA-122839942-1' # leave blank if you don't want google analytics
 #disqus_short_name: 'your_short_name' # leave blank if you don't want disqus
 
